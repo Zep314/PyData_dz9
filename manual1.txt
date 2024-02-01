@@ -1,0 +1,1689 @@
+	imdbID	primaryTitle	originalTitle	startYear	runtimeMinutes	genres	averageRating	numVotes	rating_cat	genres_code
+85978	tt1151914	Dolls of Voodoo	Haitian Nights	2013	78	Thriller	1	99		24
+69898	tt0425027	Flywheel	Flywheel	2003	120	Drama	3.5	4627		8
+2049	tt0016174	Old Clothes	Old Clothes	1925	65	Drama	3.8	182		8
+20232	tt0054907	No Time for Ecstasy	La fête espagnole	1961	99	War	5.1	22		25
+50093	tt0163984	Blood, Guts, Bullets and Octane	Blood, Guts, Bullets and Octane	1998	87	Crime	8.9	1147		6
+77505	tt0933347	My American Girls: A Dominican Story	My American Girls: A Dominican Story	2001	62	Documentary	10	24		7
+77180	tt0906108	Why Did I Get Married?	Why Did I Get Married?	2007	113	Drama	7	13654		8
+28799	tt0074811	The Tenant	Le locataire	1976	126	Thriller	10	47017		24
+58224	tt0247444	Juwanna Mann	Juwanna Mann	2002	91	Drama	6.8	7024		8
+115051	tt20249418	Romancham	Romancham	2023	130	Comedy	4	6172		5
+150808	tt5833730	Divorce French Style	Papa ou maman 2	2016	90	Romance	4.9	1639		20
+32842	tt0086160	Puss 'n Boots: Travels Around the World	Nagagutsu o haita neko: Hachijû nichikan sekai isshû	1976	68	Comedy	8.6	267		5
+108762	tt1737795	5 Souls	5 Souls	2013	79	Horror	3.9	335		14
+52357	tt0183882	Things	Things	1993	81	Horror	3	217		14
+141936	tt4353270	Echo Boomers	Echo Boomers	2020	94	Action	9.8	8728		0
+159978	tt7582830	The Ghost Bride	The Ghost Bride	2017	111	Fantasy	7.7	187		10
+32120	tt0084089	A Captain's Honor	L'honneur d'un capitaine	1982	117	War	6.2	360		25
+34229	tt0090171	Tea in the Harem	Le thé au harem d'Archimède	1985	110	Drama	10	454		8
+50533	tt0166520	The White Fang	Belyy klyk	1946	84	Family	6.3	117		9
+83213	tt1094297	Grapes on a Vine	Grapes on a Vine	2008	81	Drama	7.8	73		8
+4730	tt0023391	Shadow of Pancho Villa	Revolución	1933	93.81829254	War	7.3	19		25
+90800	tt12677554	Meky	Meky	2020	80	Biography	6.5	99		4
+33396	tt0087768	My Therapist	My Therapist	1983	85	Drama	5	81		8
+162956	tt8310106	Twice The Dream	Twice the Dream	2019	101	Family	5.6	124		9
+75922	tt0829251	The Haunting	No-Do	2009	94	Mystery	6.7	1374		17
+37984	tt0100240	The NeverEnding Story II: The Next Chapter	The NeverEnding Story II: The Next Chapter	1990	90	Family	6.4	27270		9
+167335	tt9493038	The Girl In the Orange Dress	The Girl in the Orange Dress	2018	100	Romance	3.4	104		20
+107414	tt1690120	Fishnet	Fishnet	2010	84	Comedy	5	74		5
+67920	tt0388910	The Decomposition of the Soul	La décomposition de l'âme	2002	82	Documentary	3.5	19		7
+69316	tt0416217	Killing End	Saat ko	2001	90	Romance	8.4	25		20
+36633	tt0096498	Canary Yellow	Zard-e Ghanari	1989	96	Comedy	2.3	206		5
+73541	tt0485782	The Thirst: Blood War	The Thirst: Blood War	2008	96	Action	2.3	361		0
+116634	tt2096637	The Grand Rescue	The Grand Rescue	2014	93.81829254	Adventure	8.7	10		2
+22860	tt0060694	A Midsummer Night's Dream	A Midsummer Night's Dream	1967	93	Music	8.4	29		15
+140629	tt4152148	Ressha Sentai ToQger vs. Kyoryuger: The Movie	Ressha Sentai Tokkyûjâ tai Kyôryûjâ Za Mûbî	2015	64	Action	10	36		0
+94316	tt1337454	Blue Balloons	Blue Balloons	2009	82	Romance	8.6	15		20
+80949	tt10482844	Time Now	Time Now	2021	90	Drama	1	295		8
+164126	tt8619980	The Way Home	The Way Home	2015	67	Horror	5.1	11		14
+126560	tt2613286	Playback	Dur d'être Dieu	2012	66	Documentary	5.6	17		7
+126608	tt2619098	Not So Young	Not So Young	2013	90	Drama	5.1	12		8
+141754	tt4320180	Lost in Time	Lost in Time	2018	90	Drama	5.8	11		8
+121509	tt2292705	Hackers Computer Outlaws	Hackers Computer Outlaws	1997	93.81829254	Drama	7.5	9		8
+113607	tt1958016	Season of a Lifetime	Season of a Lifetime	2012	89	Biography	7.1	25		4
+58062	tt0245240	Stamping Ground	Stamping Ground	1971	83	Music	2.6	219		15
+76268	tt0846071	Quest	Quest	2006	116	Drama	10	12		8
+32978	tt0086490	Twilight Time	Twilight Time	1982	102	Drama	7.6	223		8
+21313	tt0057229	The Red Lanterns	Ta kokkina fanaria	1963	132	Romance	3.1	2006		20
+147012	tt5178278	Vedalam	Vedalam	2015	148	Action	1.5	8186		0
+84478	tt11198496	Departure	Rahil	2015	50	Documentary	10	9		7
+23493	tt0062229	Le Samouraï	Le Samouraï	1967	105	Crime	7.8	55862		6
+140806	tt4171362	The Hobbit: The Swedolation of Smaug	The Hobbit: The Swedolation of Smaug	2014	72	Mystery	9.5	130		17
+126355	tt2591738	Legion of the Black	Legion of the Black	2012	46	Music	4.3	772		15
+55439	tt0211181	102 Dalmatians	102 Dalmatians	2000	100	Comedy	8.4	39289		5
+153616	tt6261146	My Killer	Moy ubiytsa	2016	105	Crime	8.7	181		6
+145607	tt4959326	Size Zero	Size Zero	2015	125	Romance	9.5	947		20
+121290	tt2281239	Finding Truelove	Finding Truelove	2012	69	Documentary	10	20		7
+135710	tt3488404	The Fish Die on the Soil	Mahiha Dar khak Mimirand	1977	116	Drama	3.1	29		8
+115607	tt2059224	Hipster Holocaust	Hipster Holocaust	2011	83	Thriller	10	45		24
+69795	tt0423370	This Revolution	This Revolution	2005	95	Drama	1.9	555		8
+128837	tt27746058	Circle	Circle	2023	141	Mystery	8.8	1528		17
+57946	tt0243931	Good Advice	Good Advice	2001	93	Romance	9.2	7405		20
+52137	tt0181907	Youngblood	Youngblood	1978	90	Action	6.4	343		0
+141271	tt4239814	Before the Fall	Before the Fall	2015	98	War	8.9	51		25
+144519	tt4789290	A Kind of Magic	A Kind of Magic	2015	86	Fantasy	10	1344		10
+12293	tt0037966	Over 21	Over 21	1945	102	Comedy	6.3	394		5
+62001	tt0295476	Newtown	Newtown	2001	70	Comedy	4.3	9		5
+36841	tt0097202	The Killer	Dip huet seung hung	1989	111	Action	10	50641		0
+137338	tt3684588	A Public Ransom	A Public Ransom	2014	99	Drama	10	5		8
+15468	tt0044156	Two Gals and a Guy	Two Gals and a Guy	1951	70	Comedy	9.4	17		5
+107008	tt1672091	My Dear Desperado	Nae kkangpae gateun aein	2010	105	Comedy	6.8	580		5
+52951	tt0188961	Night of the Flowers	La notte dei fiori	1972	86	Drama	1	21		8
+61742	tt0292459	The Boys of Sunset Ridge	The Boys of Sunset Ridge	2001	90	Drama	10	183		8
+19652	tt0053652	The Beginning and the End	Bidaya wa nihaya	1960	130	Drama	10	675		8
+99645	tt1460632	Getting Back to Zero	Getting Back to Zero	2013	97	Comedy	4.5	57		5
+46041	tt0126265	The Dixie Flyer	The Dixie Flyer	1926	60	Action	7.2	42		0
+21499	tt0057598	Toys in the Attic	Toys in the Attic	1963	90	Drama	9.5	1284		8
+94671	tt13409914	The Beastmaster Chronicles	The Beastmaster Chronicles	2020	93.81829254	Documentary	9.5	14		7
+38731	tt0102401	Marcellino	Marcellino	1991	92	Drama	5.4	250		8
+31862	tt0083239	The Rascals	Les turlupins	1980	95	Comedy	6.5	161		5
+88266	tt1202569	Lal Pahare'r Katha	Lal Pahare'r Katha	2007	93.81829254	Drama	10	25		8
+159941	tt7575400	Zombie World 2	Zombie World 2	2018	83	Horror	5.9	128		14
+908	tt0010352	The Life Line	The Life Line	1919	60	Drama	1	25		8
+115554	tt2056663	No One Will Know	No One Will Know	2012	86	Crime	2.4	157		6
+64062	tt0325440	Drifting Detective: Black Wind in Harbor	Fûraibô tantei: Misaki o wataru kuroi kaze	1961	60	Drama	6.5	21		8
+70738	tt0439504	Brothers in Arms	Brothers in Arms	2005	85	Drama	1	1882		8
+162477	tt8184104	Ballet Blanc	Ballet Blanc	2019	89	Drama	5.3	35		8
+109326	tt1757859	Skinning the Cat	Skinning the Cat	2010	75	Thriller	5.5	12		24
+135266	tt3443538	To Say Goodbye	To Say Goodbye	2014	100	Drama	3	33		8
+68296	tt0396647	I Died	I Died	2004	108	Drama	2.8	8		8
+42825	tt0114644	Teddy Kollek	Teddy Kollek	1995	90	Biography	7	39		4
+145980	tt5029220	Kings Bay	Kings Bay	2017	94	Thriller	8.3	471		24
+92923	tt1314190	3 Backyards	3 Backyards	2010	88	Drama	4.7	753		8
+39042	tt0103213	Virgin High	Virgin High	1991	90	Comedy	2.8	646		5
+69907	tt0425080	Pain of Autumn	Güz Sancisi	2009	112	Drama	6.8	2561		8
+151597	tt5954892	Paths	Ein Weg	2017	107	Drama	9.3	513		8
+61322	tt0287978	Daredevil	Daredevil	2003	103	Action	6.3	227504		0
+132129	tt3091286	Drunktown's Finest	Drunktown's Finest	2014	95	Drama	9.3	266		8
+144303	tt4742556	Accidentally Engaged	Accidental Engagement	2016	86	Romance	4.9	2552		20
+55732	tt0214697	Free a Man to Fight: Women Soldiers of WWII	Free a Man to Fight: Women Soldiers of WWII	1999	93.81829254	Documentary	4.6	6		7
+22615	tt0060137	Atout coeur à Tokyo pour OSS 117	Atout coeur à Tokyo pour OSS 117	1966	100	Crime	1.3	317		6
+167702	tt9625158	The Acid King	The Acid King	2019	143	Documentary	6	122		7
+110164	tt1796514	Imported Affairs	Imported Affairs	2011	86	Adventure	8.2	10		2
+18718	tt0051531	Desert Hell	Desert Hell	1958	82	Adventure	6.3	24		2
+9118	tt0031852	The Return of the Cisco Kid	The Return of the Cisco Kid	1939	70	Romance	10	117		20
+160546	tt7707950	Lady Ninja: A Blue Shadow	Lady Ninja: Aoi kage	2018	75	Action	6.3	46		0
+41835	tt0111515	The Rapist	Tun Men se mo	1994	91	Crime	3.2	127		6
+147160	tt5201994	Endo What?	Endo What?	2016	93.81829254	Documentary	9.4	22		7
+98653	tt14362510	Be My Kirill	Bud moim Kirillom	2021	96	Comedy	8.8	71		5
+165839	tt9054970	Doctor G	Doctor G	2022	124	Drama	5.5	18201		8
+61537	tt0290049	Sadistic and Masochistic	Sadisutikku & mazohisutikku	2001	91	Documentary	6.2	57		7
+94494	tt1339190	Us Sinners	Us Sinners	2007	85	Horror	8.8	35		14
+101550	tt15084854	Baby Shark's Big Movie!	Baby Shark's Big Movie!	2023	78	Comedy	4.6	400		5
+84192	tt11143444	Kombu Vatcha Singamda	Kombu Vatcha Singamda	2022	133	Drama	5.5	214		8
+8416	tt0030535	Out West with the Hardys	Out West with the Hardys	1938	84	Adventure	2.1	427		2
+34944	tt0092165	Very Close Quarters	Very Close Quarters	1984	101	Comedy	8.1	67		5
+57999	tt0244565	Jesus, the Child of God	Jesús, el niño Dios	1971	85	Drama	9	42		8
+105691	tt1621445	L.A. Paranormal	L.A. Paranormal	2011	99	Comedy	5.4	16		5
+44526	tt0119559	Long Time Since	Long Time Since	1998	90	Crime	1	133		6
+70653	tt0437800	Akeelah and the Bee	Akeelah and the Bee	2006	112	Family	3.4	21388		9
+114139	tt19816018	752 Is Not a Number	752 Is Not a Number	2022	98	Documentary	5.6	208		7
+136391	tt3563342	The Middle of X	The Middle of X	2018	81	Drama	1	172		8
+80893	tt1047490	Lo	Lo	2009	80	Horror	4.6	2806		14
+155959	tt6739646	I Am Heath Ledger	I Am Heath Ledger	2017	90	Documentary	4.8	6838		7
+95120	tt13502066	Fukrey Boyzzz: Space Mein Fukrapanti	Fukrey Boyzzz: Space Mein Fukrapanti	2020	74	Comedy	10	20		5
+50182	tt0164525	A Day on the Grand Canal with the Emperor of China or: Surface Is Illusion But So Is Depth	A Day on the Grand Canal with the Emperor of China or: Surface Is Illusion But So Is Depth	1988	46	Documentary	5.5	57		7
+43813	tt0117666	Sling Blade	Sling Blade	1996	135	Drama	10	97942		8
+150485	tt5785854	Hot Doug's: The Movie	Hot Doug's: The Movie	2016	56	Documentary	6	25		7
+162345	tt8150698	Dead by Dawn	Dead by Dawn	2020	85	Horror	2.4	267		14
+142040	tt4370770	Buried	Yanmai	2009	113	Documentary	8.3	23		7
+115579	tt2057920	It Watches	It Watches	2016	79	Thriller	1	1369		24
+161728	tt8000734	The Gasoline Thieves	Huachicolero	2019	93	Drama	10	307		8
+109663	tt1773638	Pursuit of a Legend	Pursuit of a Legend	2010	87	Mystery	6.6	80		17
+60737	tt0282860	Princess D	Seung fei	2002	106	Drama	7.3	271		8
+129961	tt2858100	Exit	Izhod	2013	82	Drama	2.1	65		8
+147383	tt5236900	Nuts!	Nuts!	2016	79	Documentary	10	874		7
+66185	tt0363473	Beyond the Sea	Beyond the Sea	2004	118	Music	10	15451		15
+29569	tt0076832	Tomorrow Never Comes	Tomorrow Never Comes	1978	109	Drama	8.8	625		8
+13128	tt0039460	Hi De Ho	Hi De Ho	1947	72	Musical	2.3	311		16
+109921	tt1785534	Resurrection	Resurrection	2010	90	Horror	2.6	36		14
+14504	tt0042272	Border Rangers	Border Rangers	1950	58	Western	6.2	28		26
+85672	tt1144545	Four Boxes	Four Boxes	2009	85	Thriller	4	381		24
+38302	tt0101301	All I Want for Christmas	All I Want for Christmas	1991	92	Comedy	5.4	5561		5
+54200	tt0200796	The Lady in Blue	The Lady in Blue	1996	85	Comedy	4.5	102		5
+127680	tt26929966	The White Storm 3: Heaven or Hell	So duk 3: Yun joi tin ngai	2023	125	Crime	10	418		6
+8505	tt0030710	Saleslady	Saleslady	1938	65	Comedy	3.3	189		5
+60285	tt0276777	Arkadius: Wild Orchid Dreams	Arkadius: Wild Orchid Dreams	2000	93.81829254	Documentary	3.6	6		7
+9550	tt0032636	Invisible Stripes	Invisible Stripes	1939	81	Drama	1.9	1900		8
+167710	tt9626764	The Team	Ekipa	2019	96	Crime	4.4	676		6
+49716	tt0160622	La p... sentimentale	La p... sentimentale	1958	93	Drama	8.9	15		8
+168035	tt9715742	Strangers of Patience	Strangers of Patience	2018	103	Thriller	4.4	66		24
+152808	tt6141246	The Aeronauts	The Aeronauts	2019	100	Action	5.9	36759		0
+67355	tt0380066	The Woods	The Woods	2006	91	Horror	2.8	12238		14
+48035	tt0142199	Le coupable	Le coupable	1917	81	Drama	2.3	51		8
+81730	tt1065060	13 Hours in a Warehouse	13 Hours in a Warehouse	2008	92	Thriller	8	943		24
+142193	tt4397346	Bikes vs Cars	Bikes vs Cars	2015	90	Documentary	3.2	738		7
+40754	tt0108306	Teenage Bonnie and Klepto Clyde	Teenage Bonnie and Klepto Clyde	1993	90	Action	10	513		0
+38479	tt0101728	The Real Me	Die xue bian yuan	1991	87	Crime	8.7	7		6
+21637	tt0057952	Circus World	Circus World	1964	135	Western	2.4	2919		26
+166131	tt9120924	Silent and Forgotten	Silent and Forgotten	2018	150	Biography	4.8	32		4
+160061	tt7600716	DNA	ADN	2020	90	Drama	8.6	1323		8
+85007	tt11311974	Moonlit Winter	Yunhui-ege	2019	105	Drama	3.5	1089		8
+140679	tt4158316	Limelight	Limelight	2017	90	Drama	4.1	104		8
+101652	tt15101036	Yellow Saturday	Les rendez-vous du samedi	2021	54	Drama	3.8	13		8
+118245	tt2152210	Young Fathers	Al Abaa' al Sighar	2005	90	Family	3.1	203		9
+99281	tt1451657	Malatya	Malatya	2009	70	Documentary	7	52		7
+136643	tt3591436	Night Owls	Night Owls	2015	90	Comedy	8.6	2589		5
+70816	tt0440963	The Bourne Ultimatum	The Bourne Ultimatum	2007	115	Action	7.2	653709		0
+19282	tt0052815	Follow a Star	Follow a Star	1959	102	Comedy	5.8	624		5
+135080	tt3416828	Ice Age: Collision Course	Ice Age: Collision Course	2016	94	Adventure	9.6	73376		2
+160499	tt7696222	A Working Title	A Working Title	2017	115	Action	9.3	16		0
+115435	tt2049499	Married and Counting	Married and Counting	2013	93	Documentary	10	27		7
+37308	tt0098322	Shogun's Shadow	Shôgun Iemitsu no ranshin - Gekitotsu	1989	114	Action	2.7	677		0
+125331	tt24973148	Best Friend	Best Friend	2023	104	Thriller	9.5	153		24
+74633	tt0775543	Night Catches Us	Night Catches Us	2010	90	Drama	7	1792		8
+98124	tt14230458	Poor Things	Poor Things	2023	141	Comedy	10	23220		5
+134094	tt3300980	The 12th Man	Den 12. mann	2017	135	Thriller	6.6	28727		24
+105825	tt1626162	My Girlfriend's Abroad	My Girlfriend's Abroad	2006	83	Comedy	9.2	19		5
+29074	tt0075648	Airport '77	Airport '77	1977	114	Drama	10	12133		8
+56438	tt0222710	Alvarez & Cruz	Alvarez & Cruz	2003	88	Crime	7.8	21		6
+134223	tt3313556	Melfi	Melfi	2013	93.81829254	Drama	7.4	6		8
+60510	tt0279774	Hong Kong Show Girl	Din ma lui long: Yat yeh ching	1996	97	Thriller	6.6	21		24
+162366	tt8155564	Pogey Beach	Pogey Beach	2019	94	Comedy	5.2	163		5
+143835	tt4669278	The Sound	The Sound	2017	92	Mystery	5.9	2188		17
+122292	tt2329566	Before the Lights Come Up	Before the Lights Come Up	2013	90	Drama	9.3	29		8
+119206	tt2191900	The 99%	Occupy Wall Street: We Are The 99%	2013	63	Documentary	1.5	15		7
+97196	tt1401669	The Little Bedroom	La petite chambre	2010	87	Drama	3.5	268		8
+110447	tt1809370	The Highest Pass	The Highest Pass	2011	90	Biography	4.5	113		4
+12329	tt0038043	Red Meadows	De røde enge	1945	85	Drama	10	384		8
+26747	tt0069479	Viva! Django	W Django!	1971	90	Western	1.2	573		26
+72714	tt0472043	Apocalypto	Apocalypto	2006	139	Adventure	8.7	327411		2
+8064	tt0029858	Almost a Honeymoon	Almost a Honeymoon	1938	80	Comedy	8.7	11		5
+17667	tt0049097	Slightly Ahead	Courte tête	1956	88	Comedy	10	128		5
+1722	tt0014707	Behind Two Guns	Behind Two Guns	1924	58	Western	2.5	27		26
+78721	tt10054544	VI	VI	2019	70	Thriller	7.2	45		24
+19118	tt0052393	Wild Heritage	Wild Heritage	1958	78	Western	2.9	174		26
+4724	tt0023380	This Reckless Age	This Reckless Age	1932	80	Comedy	10	51		5
+71745	tt0455925	The Children of Rome Open City	Children of Rome Open City	2005	53	Documentary	10	34		7
+55901	tt0216930	My 5 Wives	My 5 Wives	2000	100	Comedy	5.4	1850		5
+130485	tt29137625	Cry Baby (Visual Album)	Cry Baby (Visual Album)	2017	93.81829254	Music	7.9	8		15
+99970	tt1468703	Bear	Bear	2010	78	Drama	1.2	1326		8
+13468	tt0040103	Another Shore	Another Shore	1948	77	Comedy	5.9	148		5
+123366	tt2378567	Vampire Boys 2: The New Brood	Vampire Boys 2: The New Brood	2013	75	Horror	2.5	279		14
+32134	tt0084130	In the King of Prussia	In the King of Prussia	1982	92	Drama	10	74		8
+113953	tt19768016	Love According to Dalva	Dalva	2022	83	Drama	9	1403		8
+165843	tt9055926	National Theatre Live: King Lear	National Theatre Live: King Lear	2018	227	Drama	5.9	386		8
+29568	tt0076827	The Sentimental Swordsman	Duo qing jian ke wu qing jian	1977	96	Action	6.4	439		0
+168052	tt9723084	Anderswo. Allein in Afrika	Anderswo. Allein in Afrika	2018	103	Documentary	7.4	656		7
+94381	tt1337720	Two for Three	Two for Three	2008	82	Drama	10	8		8
+135954	tt3514864	Simon & Garfunkel: Bridge Over Troubled Water	Simon & Garfunkel: Bridge Over Troubled Water	2013	124	Drama	6.9	12		8
+45938	tt0125594	When Passions Collide	When Passions Collide	1997	92	Drama	4.5	113		8
+62058	tt0296104	A Night Excursion	Nocni izlet	1961	91	Drama	2.9	25		8
+75209	tt0805488	Salty Air	L'aria salata	2006	87	Drama	10	290		8
+68860	tt0406990	Our Yard	Our Yard	1996	101	Musical	3.7	172		16
+160833	tt7775622	Free Solo	Free Solo	2018	100	Adventure	4.7	75763		2
+105152	tt1600893	Shoe Store	Shoe Store	2008	113	Comedy	10	11		5
+68839	tt0406716	Don Quichotte	Don Quichotte	1933	81	Adventure	3.7	28		2
+154729	tt6462084	Evil Bong 666	Evil Bong 666	2017	65	Comedy	6.2	368		5
+149985	tt5702884	Mrs Right Guy	Mrs Right Guy	2016	84	Romance	5.4	73		20
+162995	tt8322158	Day One	Day One	2018	81	Documentary	7.3	8		7
+155279	tt6581480	Red Guards on Honghu Lake	Hong hu chi wei dui	1961	112	Drama	7	17		8
+100012	tt14695214	Hannibal Hopkins & Sir Anthony	Hannibal Hopkins & Sir Anthony	2021	53	Biography	4.3	227		4
+16327	tt0046006	The Little Kidnappers	The Kidnappers	1953	93	Romance	4	545		20
+94410	tt1338604	The Great Mystery	The Great Mystery	2010	81	Family	10	14		9
+39707	tt0105214	The Railway Station Man	The Railway Station Man	1992	96	Romance	8.6	239		20
+139900	tt4058156	The Regulators	The Regulators	2014	84	Documentary	8.2	15		7
+146688	tt5130274	Man in the Camo Jacket	Man in the Camo Jacket	2017	80	Biography	7.6	43		4
+72396	tt0466533	The Century Plaza	The Century Plaza	2005	80	Documentary	10	65		7
+97091	tt13989524	Absolute Proof	Absolute Proof	2021	120	Documentary	7.4	868		7
+93528	tt1326188	Bad Actress	Bad Actress	2011	86	Comedy	5.8	241		5
+15481	tt0044180	The Vanishing Outpost	The Vanishing Outpost	1951	56	Western	10	49		26
+116299	tt2085818	Icon Eye	Icon Eye	2011	58	Music	10	9		15
+157066	tt6971752	Shubh Mangal Savdhan	Shubh Mangal Saavdhan	2017	119	Comedy	7.8	10955		5
+62914	tt0308464	King of the Ants	King of the Ants	2003	93.81829254	Family	9.8	30		9
+115505	tt2053413	A Hole in My Panty	Pantsu no ana the movie: Doutei soushitsu rapusodi	2011	93.81829254	Romance	1.4	97		20
+78990	tt10106416	Honor Project Documentary	Honor Project Documentary	2019	65	Documentary	10	9		7
+156073	tt6769280	Time Freak	Time Freak	2018	104	Drama	4.2	9717		8
+66148	tt0362911	Nightmare in Shallow Point	Nightmare in Shallow Point	2000	93.81829254	Horror	5.6	27		14
+126051	tt25606340	Thaaram Theertha Koodaram	Thaaram Theertha Koodaram	2023	125	Romance	3.5	611		20
+74983	tt0795405	It Is Fine! Everything Is Fine.	It Is Fine! Everything Is Fine.	2007	74	Drama	6.2	434		8
+41302	tt0110044	Holy Matrimony	Holy Matrimony	1994	93	Comedy	9.6	1635		5
+67637	tt0384376	No Regrets	No Regrets	2004	96	Romance	1	175		20
+47631	tt0138873	This Town	This Town	1998	93.81829254	Drama	6.8	7		8
+33627	tt0088379	The Warrior and the Sorceress	The Warrior and the Sorceress	1984	81	Fantasy	4	2458		10
+137806	tt3732280	When Angels Sleep	Cuando los ángeles duermen	2018	91	Adventure	10	4023		2
+131709	tt3037576	Fausto	Fausto	2017	106	Drama	7	20		8
+33148	tt0087070	Cold Feet	Cold Feet	1983	96	Comedy	1	58		5
+30867	tt0080500	Carny	Carny	1980	107	Drama	9.8	2390		8
+57265	tt0234149	Lucifurs	Lucifurs	1998	85	Thriller	9.2	24		24
+39624	tt0104990	Newsies	Newsies	1992	121	History	8.8	22263		13
+95264	tt13531020	Kumari	Kumari	2022	137	Thriller	7.3	2068		24
+164016	tt8589698	Teenage Mutant Ninja Turtles: Mutant Mayhem	Teenage Mutant Ninja Turtles: Mutant Mayhem	2023	99	Adventure	7.9	55345		2
+132186	tt3096908	A Bold Peace	A Bold Peace	2016	102	Documentary	6.5	33		7
+146271	tt5078158	The Summer of All My Parents	Juillet août	2016	96	Drama	9.3	255		8
+166860	tt9339958	I Want to Live	Sirdys	2018	110	Romance	4.1	676		20
+84536	tt11212786	Maggots	Maggots	2019	76	Horror	1	73		14
+23859	tt0063050	The Heart Is a Lonely Hunter	The Heart Is a Lonely Hunter	1968	123	Drama	10	4683		8
+71408	tt0451154	The Passing	The Passing	2011	92	Horror	7.7	240		14
+77175	tt0906048	Manhattanites	Manhattanites	2008	95	Drama	9.7	26		8
+158651	tt7309000	Sacred Hearts	Sacred Hearts	2020	93.81829254	Drama	5.2	7		8
+99633	tt14599534	Hillary Clinton: Fighting for Us	Hillary Clinton: Fighting for Us	2020	93.81829254	Documentary	1	15		7
+22994	tt0061008	Shoot Loud, Louder... I Don't Understand	Spara forte, più forte... non capisco!	1966	100	Crime	7.3	162		6
+145561	tt4953348	O. Unilateralis	O. Unilateralis	2016	93.81829254	Drama	6.2	71		8
+129493	tt28240284	To End All War: Oppenheimer & the Atomic Bomb	To End All War: Oppenheimer & the Atomic Bomb	2023	87	Documentary	7.1	2236		7
+96975	tt1396219	Outcast	Outcast	2010	98	Horror	9.7	2765		14
+28121	tt0072928	Elkerlyc	Elckerlyc	1975	94	History	10	122		13
+79423	tt10203594	Block Burner	Block Burner	2012	99	Drama	4.8	6		8
+57592	tt0239068	Jacker	Jacker	1993	93.81829254	Thriller	9.1	33		24
+105918	tt16296326	The Sun Rises in the East	The Sun Rises in the East	2022	58	Documentary	9.4	9		7
+128130	tt2728484	A Clown's Recovery	A Clown's Recovery	2013	90	Documentary	8.4	8		7
+90147	tt1249441	Hoochie Mamma Drama	Hoochie Mamma Drama	2008	83	Comedy	1	104		5
+5680	tt0025368	The Last Gentleman	The Last Gentleman	1934	72	Comedy	4.8	99		5
+45969	tt0125791	Hungry Heart	Hungry Heart	1987	95	Drama	7.2	7		8
+11264	tt0035982	Hello Frisco, Hello	Hello Frisco, Hello	1943	99	Musical	4.9	546		16
+23672	tt0062676	Arizona Bushwhackers	Arizona Bushwhackers	1968	87	Romance	6.3	362		20
+29036	tt0075409	W.C. Fields and Me	W.C. Fields and Me	1976	111	Biography	7.2	500		4
+154317	tt6393674	Before/During/After	Before/During/After	2020	82	Drama	1	444		8
+128564	tt2758408	All or Nothing	All or Nothing	2013	71	Thriller	10	32		24
+81596	tt10621206	The Dreams in Gary's Basement	The Dreams in Gary's Basement	2023	93.81829254	Documentary	10	11		7
+35785	tt0094344	Heartbeat 100	Sam tiu yat baak	1987	93	Comedy	6.4	81		5
+56560	tt0224596	Devil's Flute	Akuma ga kitarite fue o fuku	1979	136	Mystery	7.7	54		17
+3550	tt0020896	For the Defense	For the Defense	1930	65	Drama	8.7	665		8
+95369	tt13556368	The Last Supper: A Sopranos Session	The Last Supper: A Sopranos Session	2020	93.81829254	Documentary	10	19		7
+135563	tt3471964	House of Secrets	House of Secrets	2014	84	Mystery	3.5	169		17
+133485	tt3232142	Blood Type	Veregrupp	2013	67	Drama	7.8	40		8
+24540	tt0064571	Eagles Over London	La battaglia d'Inghilterra	1969	110	Action	3.8	773		0
+31254	tt0081495	The Shaolin Brothers	Shao Lin xiong di	1977	90	Action	4.1	71		0
+124711	tt2445032	Boy	Boy	2012	48	Drama	9.6	59		8
+32778	tt0085992	Black Magic with Buddha	Nao mo	1983	94	Horror	3.4	53		14
+78369	tt0993782	Severe Visibility	Severe Visibility	2007	90	Mystery	9.4	37		17
+124360	tt2417174	DSKNECTD	DSKNECTD	2013	98	Documentary	9.2	112		7
+66481	tt0367188	Modigliani	Modigliani	2004	128	Biography	7.4	12429		4
+134858	tt3393702	All the Others Were Practice	All the Others Were Practice	2015	82	Comedy	1.5	116		5
+90811	tt12680856	Why?	Why?	2020	123	Horror	5.9	23		14
+68682	tt0403974	The Descent of Walter McFea	The Descent of Walter McFea	2002	85	Comedy	3.8	10		5
+125866	tt2545186	Best in Bed	À coup sûr	2014	91	Comedy	1	662		5
+62238	tt0298583	A Woman on the Verge	Uigiui yeoja	1987	111	Drama	4.7	12		8
+65672	tt0354808	The Birch-Tree Meadow	La petite prairie aux bouleaux	2003	91	Drama	6.3	234		8
+117068	tt2112287	Thale	Thale	2012	76	Fantasy	7.8	6121		10
+45169	tt0120871	The Treat	The Treat	1998	94	Romance	8.7	511		20
+75194	tt0804541	Shiloh Falls	Shiloh Falls	2007	90	Thriller	6.4	219		24
+27783	tt0072002	Don't Cry with Your Mouth Full	Pleure pas la bouche pleine!	1973	116	Romance	8.4	210		20
+153300	tt6211418	7 Months Pregnant	Haft mahegi	2016	77	Drama	7.6	440		8
+100548	tt1483735	The Portuguese Nun	A Religiosa Portuguesa	2009	127	Drama	8.1	667		8
+126789	tt2631820	Feathers of Passion	Sanim Soy	2003	110	Drama	8.8	12		8
+134600	tt3355094	Dinosaurs: Dead or Alive	Dinosaurs: Dead or Alive	2007	90	Documentary	7.7	11		7
+15056	tt0043386	Casque d'Or	Casque d'or	1952	99	Drama	10	6124		8
+98530	tt1433172	Relations.	Relations.	2007	72	Comedy	9.5	15		5
+100908	tt14923260	Chupa	Chupa	2023	95	Adventure	1	7003		2
+92889	tt13133936	The Desperate Hour	Lakewood	2021	84	Thriller	8.6	7181		24
+132104	tt3089706	Namaste Hello, Bye-Bye	Namaste ja-eh bye bye	2013	93.81829254	Drama	5.8	18		8
+66037	tt0361401	The Blues	The Blues	2003	97	Comedy	10	36		5
+77785	tt0958863	Pink Eye	Pink Eye	2008	100	Horror	8.1	152		14
+59259	tt0262078	Dirty Doctor Deviate	Two Goes Into Two, Once	1970	59	Drama	4.1	30		8
+144374	tt4766070	Alex & Jaime	Alex & Jaime	2017	78	Comedy	2.8	23		5
+143807	tt4666040	One Glorious Sunset	One Glorious Sunset	2020	90	Drama	2.6	108		8
+244	tt0005392	A Girl of Yesterday	A Girl of Yesterday	1915	93.81829254	Comedy	5	19		5
+50481	tt0166169	Divorce Iranian Style	Divorce Iranian Style	1998	80	Documentary	8.4	548		7
+45871	tt0125195	Cry Your Purple Heart Out	Cry Your Purple Heart Out	1976	82	Comedy	6.7	29		5
+103788	tt1555402	Crutch	Crutch	2020	98	Documentary	8.6	31		7
+134219	tt3313182	White Orchid	The White Orchid	2018	82	Thriller	9.6	1412		24
+33964	tt0089459	Edge of Fury	Lao jia lao nu lao shang lao	1978	94	Action	7.8	71		0
+164074	tt8602654	Sarkari. Hi. Pra. Shale Kasaragodu, Koduge: Ramanna Rai	Sarkari. Hi. Pra. Shale Kasaragodu, Koduge: Ramanna Rai	2018	147	Drama	10	2890		8
+63988	tt0324055	The Squatter's Son	The Squatter's Son	1911	93.81829254	Drama	1	15		8
+79518	tt10218878	The Dinner	Haarucha	2020	78	Drama	3.9	15		8
+50124	tt0164154	Sangyo supai	Sangyo supai	1968	90	Thriller	10	24		24
+36325	tt0095774	Off Limits	Off Limits	1988	102	Drama	5.9	3372		8
+155473	tt6623390	The House of Violent Desire	The House of Violent Desire	2018	117	Horror	5.1	324		14
+12339	tt0038056	The Scarlet Clue	The Scarlet Clue	1945	65	Mystery	6.4	1529		17
+125680	tt2527368	On Thin Ice	Kampen	2013	45	Drama	8	10		8
+128730	tt2768780	Boundary	Fahtum pandinsoong	2013	96	Documentary	9	23		7
+67692	tt0385363	Let's Make a Grandson	Zróbmy sobie wnuka	2003	83	Comedy	4.1	1219		5
+60472	tt0279231	Miss Minoes	Minoes	2001	86	Fantasy	6.3	5392		10
+110437	tt1809214	05.05.2005	05.05.2005	2013	126	Thriller	8.8	221		24
+74421	tt0762087	Danielson: A Family Movie (or, Make a Joyful Noise Here)	Danielson: A Family Movie (or, Make a Joyful Noise Here)	2006	110	Documentary	5.4	219		7
+86271	tt11580914	Yaadhum Oore Yaavarum Kelir	Yaadhum Oore Yaavarum Kelir	2023	116	Action	4.4	1384		0
+139537	tt3975584	Bad, Bad Men	Bad, Bad Men	2016	83	Comedy	5.9	124		5
+164396	tt8695030	The Dead Don't Die	The Dead Don't Die	2019	104	Fantasy	2.5	84355		10
+103209	tt1542488	Video Girl	Video Girl	2011	95	Drama	9.9	773		8
+31388	tt0082020	The Animals Film	The Animals Film	1981	136	Documentary	8.1	146		7
+110438	tt1809231	Jackpot	Arme Riddere	2011	86	Action	7.9	3391		0
+78231	tt0984213	Operation Filmmaker	Operation Filmmaker	2007	92	Documentary	8.9	338		7
+20094	tt0054640	The Assassin	L'assassino	1961	97	Thriller	6.8	1503		24
+96563	tt13857444	The Finder	The Finder	2021	93.81829254	Action	7.9	6		0
+38716	tt0102344	Love Your Mama	Love Your Mama	1990	92	Drama	7.8	20		8
+26713	tt0069401	The Traitors	Los traidores	1973	113	Drama	10	221		8
+168462	tt9845398	End of the Century	Fin de siglo	2019	84	Drama	6.8	3836		8
+144133	tt4711096	Young Dragons: Kung Fu Kids IV	Kua yue shi kong de xiao zi	1987	97	Family	7.2	40		9
+104236	tt1568921	The Secret World of Arrietty	Karigurashi no Arietti	2010	94	Animation	7.4	101757		3
+69695	tt0421244	Screaming Blue Murder	Screaming Blue Murder	2006	84	Comedy	2.7	69		5
+23710	tt0062754	The Young Animals	The Young Animals	1968	100	Drama	8.7	135		8
+70607	tt0436869	Vernie	Vernie	2004	86	Romance	7.9	46		20
+154551	tt6435934	Last Journey of Paul W.R.	Le dernier voyage	2020	87	Adventure	9.2	1422		2
+63883	tt0322337	Friends in High Places	Friends in High Places	2001	83	Documentary	4.3	29		7
+167914	tt9680090	Thipparaa Meesam	Thippara Meesam	2019	152	Romance	2.5	130		20
+5263	tt0024500	Riders of Destiny	Riders of Destiny	1933	53	Music	4.2	1183		15
+35108	tt0092750	Chillers	Chillers	1987	91	Horror	5.9	549		14
+43649	tt0117182	Niji o tsukamu otoko	Niji o tsukamu otoko	1996	120	Drama	9.9	38		8
+131279	tt29889854	Infringed: Gun Rights in America	Infringed: Gun Rights in America	2023	102	Documentary	10	19		7
+7715	tt0029224	Meet the Missus	Meet the Missus	1937	60	Romance	5.4	161		20
+9813	tt0033157	3 Cheers for the Irish	3 Cheers for the Irish	1940	99	Romance	10	311		20
+155611	tt6659652	Descent Into the Maelstrom	Descent Into the Maelstrom	2017	110	Music	7.8	65		15
+140549	tt4141906	Twelve Nights	Shi er ye	2013	98	Documentary	10	64		7
+102316	tt1524050	Virginia Creepers: The Horror Host Tradition of the Old Dominion	Virginia Creepers: The Horror Host Tradition of the Old Dominion	2009	120	Documentary	4	21		7
+21840	tt0058372	Moonshine Mountain	Moonshine Mountain	1964	85	Music	1	363		15
+161234	tt7889756	Atlantic Salmon: Lost at Sea	Atlantic Salmon: Lost at Sea	2018	55	Documentary	8.4	17		7
+152154	tt6048658	To End a War	To End a War	2017	99	Documentary	4.8	43		7
+151494	tt5938798	Our Stories	Our Stories	2014	93.81829254	Drama	5.1	8		8
+12297	tt0037975	Patrick the Great	Patrick the Great	1944	84	Comedy	3.3	56		5
+63545	tt0317432	Ennio Morricone: Music for the Eyes	Ennio Morricone: la musica negli occhi	1990	58	Music	10	29		15
+159309	tt7450346	Panchavarnathatha	Panchavarnathatha	2018	148	Comedy	9.3	506		5
+107640	tt1698650	Jozi Kings	Jozi Kings	2010	90	Drama	7.7	7		8
+29294	tt0076155	The Man Who Loved Women	L'homme qui aimait les femmes	1977	120	Romance	10	7251		20
+111361	tt1841598	Flor de Muertos	Flor de Muertos	2011	91	Documentary	9.3	10		7
+41541	tt0110687	North	North	1994	87	Adventure	9	14620		2
+60163	tt0275309	Dogtown and Z-Boys	Dogtown and Z-Boys	2001	91	Documentary	2.7	13287		7
+36732	tt0096945	Blind Fury	Blind Fury	1989	86	Crime	5	18429		6
+52523	tt0185023	Hot Desire	Ye tiao qing	1993	93	Romance	6.4	23		20
+78038	tt0972805	Farm Girl in New York	Farm Girl in New York	2007	82	Comedy	9	62		5
+128473	tt27540174	The Witch Trials of J.K. Rowling	The Witch Trials of J.K. Rowling	2023	115	Comedy	6.5	20		5
+52544	tt0185266	Deadly Daphne's Revenge	Deadly Daphne's Revenge	1987	88	Thriller	1.3	277		24
+83443	tt1099209	Silent Life: The Story of the Lady in Black	Silent Life: The Story of the Lady in Black	2023	96	Drama	9.2	13		8
+55960	tt0217591	Jungle Headhunters	Jungle Headhunters	1951	66	Documentary	2.7	6		7
+93686	tt13273570	Rex Park: Curse of the Golden Buddha	Rex Park: Curse of the Golden Buddha	2021	80	Comedy	10	11		5
+54161	tt0200451	The Amazon Head Hunters	Au pays du scalp	1932	75	Documentary	7.6	17		7
+114248	tt1986154	The Franco-Prussian War 1870-1871	The Franco-Prussian War 1870-1871	2007	45	Documentary	4.5	11		7
+61832	tt0293444	Nailing Vienna	Nailing Vienna	2002	94	Crime	1	42		6
+118554	tt2170383	The Lord Worked Wonders in Me	El Senyor ha fet en mi meravelles	2011	146	Documentary	6.9	47		7
+148365	tt5432182	The Legend of Zelda Oblivion Rising	The Legend of Zelda Oblivion Rising	2016	152	Fantasy	10	33		10
+118596	tt2171983	Murder Capital of the World	Murder Capital of the World	2012	83	Documentary	3.5	28		7
+122654	tt2349554	The Butcher	The Butcher	2007	75	Horror	4.9	426		14
+59355	tt0263667	Pictures Deep in One's Eyes	Lontano in fondo agli occhi	2000	102	Drama	1.1	51		8
+72503	tt0468548	The Situation	The Situation	2006	111	War	9.4	886		25
+83720	tt1105329	For Liberty	Baraye azadi	1979	111	Documentary	7.5	81		7
+61601	tt0290884	Tail Sting	Tail Sting	2001	93	Action	1	786		0
+147669	tt5278466	Jim: The James Foley Story	Jim: The James Foley Story	2016	111	Documentary	5	1677		7
+56041	tt0218327	Here Dies Another Day	Here Dies Another Day	1997	93.81829254	Thriller	5	19		24
+116714	tt2101484	The Undocumented	The Undocumented	2013	88	Documentary	6.2	45		7
+12009	tt0037423	Six P.M.	V shest chasov vechera posle voyny	1944	100	Romance	2.8	178		20
+77789	tt0959336	R U Invited?	R U Invited?	2006	85	Romance	7.7	195		20
+133392	tt3224146	Red Bike Story	Chakrayan si daeng	1997	93.81829254	Romance	9.3	17		20
+120095	tt2230656	Rich Is the Wolf	La richesse du loup	2012	86	Drama	6.2	23		8
+98543	tt14333000	Eating an Elephant	Syest Slona	2020	68	Documentary	10	6		7
+57004	tt0230512	Mayor of the Sunset Strip	Mayor of the Sunset Strip	2003	94	Biography	5.5	1633		4
+141683	tt4306742	Words	Words	2018	72	Documentary	9.6	24		7
+50904	tt0169612	Biker Dreams	Biker Dreams	1998	73	Documentary	10	25		7
+8128	tt0029965	Campus Confessions	Campus Confessions	1938	67	Comedy	8.2	32		5
+126147	tt2571540	Paper Souls	Les âmes de papier	2013	90	Fantasy	7.3	104		10
+105161	tt1601226	I Miss You	Te extraño	2010	96	Drama	2.7	55		8
+165564	tt8998598	Kill Giggles	Kill Giggles	2020	94	Thriller	9	38		24
+74828	tt0787485	Killer Pad	Killer Pad	2008	84	Horror	4.2	1493		14
+68395	tt0398308	Sana, bukas pa ang kahapon	Sana, bukas pa ang kahapon	1983	106	Drama	6.4	8		8
+47056	tt0134786	The Graduates	Liceenii	1986	95	Romance	8.1	2333		20
+24797	tt0065086	That Cold Day in the Park	That Cold Day in the Park	1969	113	Drama	6.1	2213		8
+75016	tt0796314	A Dog's Breakfast	A Dog's Breakfast	2007	88	Comedy	3.3	3749		5
+87812	tt1191121	Jalsa	Jalsa	2008	161	Comedy	4	6470		5
+44009	tt0118214	Zarkorr! The Invader	Zarkorr! The Invader	1996	80	Sci-Fi	1.2	408		21
+35593	tt0093886	Roxanne	Roxanne	1987	107	Comedy	10	47259		5
+68014	tt0390133	I.P.O.	I.P.O.	2003	84	Comedy	10	20		5
+152308	tt6072604	Agujero Negro	Agujero Negro	2018	102	Comedy	4.1	104		5
+82871	tt10886166	365 Days	365 dni	2020	114	Drama	1	96867		8
+81760	tt10654432	Return to Earth	Return to Earth	2019	47	Documentary	8.4	129		7
+69749	tt0422589	Know the Truth	Know the Truth	2004	86	Documentary	1.7	11		7
+158074	tt7201744	As I Am	Philophobia	2019	125	Comedy	8.4	1215		5
+155462	tt6620260	If I Think of Germany at Night	Denk ich an Deutschland in der Nacht	2017	105	Documentary	3.3	207		7
+140584	tt4145350	Hansel vs. Gretel	Hansel vs. Gretel	2015	86	Horror	1	1045		14
+98730	tt14376496	Daddy Coded	Papa zakodirovalsya	2020	92	Comedy	7.4	29		5
+124778	tt2450334	No Clue	No Clue	2013	96	Comedy	4.2	1519		5
+13524	tt0040213	Carson City Raiders	Carson City Raiders	1948	60	Western	5.6	56		26
+59128	tt0260216	Night Class	Night Class	2001	90	Thriller	4.7	233		24
+99424	tt14551156	In A Different Key	In A Different Key	2020	102	Documentary	9.7	69		7
+76987	tt0892862	Agnes Martin: With My Back to the World	Agnes Martin: With My Back to the World	2003	56	Documentary	5.3	54		7
+44846	tt0120250	Tangos Are for Two	Sus ojos se cerraron y el mundo sigue andando	1997	93	Music	3.7	334		15
+154372	tt6403818	The Blood Is the Life	The Blood Is the Life	2017	111	Documentary	5.4	12		7
+35062	tt0092644	Beverly Hills Cop II	Beverly Hills Cop II	1987	100	Comedy	1.8	128152		5
+83570	tt11024972	Odd Couple	Odd Couple	2019	117	Drama	7.2	379		8
+167670	tt9617782	Who Let the Dogs Out	Who Let the Dogs Out	2019	70	Documentary	3	197		7
+165187	tt8900434	El Pepe: A Supreme Life	El Pepe, una vida suprema	2018	74	Documentary	10	2091		7
+67885	tt0388407	Shiva for My Mother	Shivah al ima	2003	56	Documentary	3.5	13		7
+164151	tt8630054	My Guy	Bonhomme	2018	103	Drama	1.3	206		8
+123800	tt2394005	The Bolivian Case	The Bolivian Case	2015	75	Documentary	10	22		7
+89037	tt12241936	Playing Through	Playing Through	2022	91	Sport	9.3	21		22
+112704	tt1909826	The International Sign for Choking	The International Sign for Choking	2011	80	Romance	3.4	40		20
+13924	tt0040962	When My Baby Smiles at Me	When My Baby Smiles at Me	1948	98	Romance	6.5	210		20
+14792	tt0042824	Outrage	Outrage	1950	75	Drama	2.4	1763		8
+124208	tt2407712	BBOY for LIFE	BBOY for LIFE	2012	84	Adventure	3.6	28		2
+149879	tt5687814	Golden Exits	Golden Exits	2017	94	Drama	2	2308		8
+119715	tt2210463	Battle of the Damned	Battle of the Damned	2013	88	Horror	6.4	4099		14
+79931	tt10304142	Amsterdam	Amsterdam	2022	134	History	2.8	89360		13
+47924	tt0141160	Hit the Road Running	Hit the Road Running	1987	92	Comedy	2.3	16		5
+94304	tt13374130	Meeting Michael	Meeting Michael	2020	75	Documentary	2.7	81		7
+123773	tt2392928	Jenny's Book of Twilight	Jenny's Book of Twilight	2012	82	Drama	4	24		8
+20550	tt0055580	V.D.	V.D.	1961	91	Drama	9.9	200		8
+30997	tt0080785	Getting Wasted	Getting Wasted	1980	98	Comedy	8.4	180		5
+167547	tt9581736	Las Distancias	Las Distancias	2017	72	Documentary	5.6	9		7
+121603	tt2296879	Oligarchy	Oligarhia	2012	100	Documentary	9.4	40		7
+14764	tt0042779	Nancy Goes to Rio	Nancy Goes to Rio	1950	100	Musical	3.5	597		16
+26493	tt0068934	Melinda	Melinda	1972	109	Drama	3.3	312		8
+163049	tt8333790	Neeya 2	Neeya 2	2019	125	Horror	7.2	154		14
+3628	tt0021065	The Comeback	Liebe im Ring	1930	81	Sport	3.3	24		22
+104167	tt15675952	Hunting Season	Jagdsaison	2022	93	Comedy	2.1	301		5
+102045	tt1518293	Sundance Skippy	Sundance Skippy	2010	90	Comedy	8.2	95		5
+12936	tt0039095	Wanted for Murder	Wanted for Murder	1946	95	Drama	9.1	774		8
+44250	tt0118986	Dinner at Fred's	Dinner at Fred's	1997	93	Comedy	9.7	409		5
+27404	tt0071154	Appassionata	Appassionata	1974	96	Drama	4	858		8
+137185	tt3663564	Madtown	Madtown	2016	120	Thriller	2.2	991		24
+167798	tt9652550	Delusional	Delusional	2022	113	Thriller	3.7	138		24
+37261	tt0098224	Rosalie Goes Shopping	Rosalie Goes Shopping	1989	94	Comedy	4.9	1074		5
+61024	tt0285504	Exotic Mask in Hell	Dan Oniroku: Yôen nômen jigoku	1988	72	Drama	5.4	25		8
+112972	tt1928123	Before Dawn	Before Dawn	2013	82	Horror	9.3	861		14
+96000	tt1371141	Raven	Raven	2010	100	Thriller	1.5	98		24
+52534	tt0185188	Man on the Brink	Bin yuen yan	1981	100	Drama	2.5	149		8
+130809	tt29452517	Old Fox	Lao hu li	2023	112	Drama	5.3	164		8
+76168	tt0841123	Carla's List	La liste de Carla	2006	100	Documentary	7.6	47		7
+93614	tt1326807	The Least of These	The Least of These	2009	62	Documentary	7	32		7
+102337	tt15242330	The First Slam Dunk	The First Slam Dunk	2022	124	Drama	10	5775		8
+24580	tt0064632	Let It All Hang Out	Der Mann mit dem goldenen Pinsel	1969	86	Comedy	2.6	144		5
+54274	tt0201347	Story of the Sword and the Sabre	Yi tian tu long ji	1989	82	Drama	9.1	6		8
+97632	tt14112680	Love Hurts	Love Hurts	2022	93	Thriller	5.7	243		24
+30647	tt0079826	The Rose	The Rose	1979	125	Romance	9.1	9161		20
+138074	tt3766040	A Legacy of Whining	A Legacy of Whining	2016	73	Comedy	1	194		5
+149855	tt5684550	Xuan Zang	Da Tang Xuan Zang	2016	90	Biography	9.8	497		4
+111810	tt1859500	Hei mei gui	Hei mei gui	1983	89	Thriller	5.1	12		24
+19943	tt0054247	The Wayside Pebble	Robo no ishi	1960	104	Drama	10	13		8
+159067	tt7391968	Through the Banks of the Red Cedar	Through the Banks of the Red Cedar	2018	69	Family	10	28		9
+86614	tt11664150	Rise and Fall of Comrade Zylo	Rise and Fall of Comrade Zylo	2022	119	Drama	6	18		8
+125722	tt2531822	The Basement	The Basement	2014	108	Thriller	7	46		24
+150745	tt5821764	ZombieCON	ZombieCON	2018	93.81829254	Action	10	13		0
+159502	tt7491480	61: Highway to Hell	61: Highway to Hell	2017	97	Comedy	6.9	111		5
+17891	tt0049594	Paris, Palace Hotel	Paris, Palace Hôtel	1956	100	Comedy	2.9	105		5
+92424	tt13044858	My Cherry Pie	My Cherry Pie	2021	81	Horror	3.6	65		14
+130433	tt2908856	My Old Lady	My Old Lady	2014	107	Comedy	5.2	9941		5
+75005	tt0795938	Flower and Dragon: Story of Youth - Story of Love - Story of the Angry Wave	Hana to ryu-seiun hen/aizo hen/doto hen	1973	168	Action	5.4	16		0
+109746	tt1776326	The Global Village Project	The Global Village Project	2011	93.81829254	Documentary	10	8		7
+130865	tt29489444	The Secret of the Orchard	The Secret of the Orchard	2021	93.81829254	Fantasy	5.6	9		10
+52391	tt0184194	Aircraft Wood Repair, Part 4: Bulkhead Repair	Aircraft Wood Repair, Part 4: Bulkhead Repair	1943	93.81829254	Documentary	5	8		7
+19430	tt0053121	Fires on the Plain	Nobi	1959	108	War	10	5249		25
+27818	tt0072087	Rivals of Kung Fu	Huang fei hong yi qu ding cai pao	1974	93	Drama	3.4	64		8
+10375	tt0034203	Smilin' Through	Smilin' Through	1941	100	Romance	10	449		20
+54095	tt0199875	Nothing Barred	Nothing Barred	1961	83	Comedy	1	77		5
+123808	tt23941664	Unhinged Retribution	Unhinged	2023	81	Mystery	4.1	33		17
+120945	tt2265439	Resistance	Moghavemat	1987	93.81829254	War	5.3	16		25
+78185	tt0981286	Funkytown	Funkytown	2011	132	Music	9.6	919		15
+12742	tt0038764	My Pal Trigger	My Pal Trigger	1946	79	Western	3.2	532		26
+115491	tt2051906	Knocking on the Devil's Door: Our Deadly Nuclear Legacy	Knocking on the Devil's Door: Our Deadly Nuclear Legacy	2011	96	History	3.6	9		13
+25156	tt0065916	Joe	Joe	1970	107	Drama	3.6	4063		8
+146815	tt5149156	Searching for Rushdi	ELbahth ann rushdi	2015	93.81829254	Documentary	9.4	8		7
+116707	tt2101390	Láska je láska	Láska je láska	2012	108	Comedy	4.2	150		5
+10468	tt0034388	Where Did You Get That Girl?	Where Did You Get That Girl?	1941	68	Comedy	4.2	26		5
+49635	tt0160117	Carré de valets	Carré de valets	1947	90	Comedy	1	32		5
+6536	tt0027067	Sylvia Scarlett	Sylvia Scarlett	1935	95	Drama	2.5	4486		8
+6300	tt0026610	Late Extra	Late Extra	1935	69	Drama	3.2	107		8
+10887	tt0035263	Rock River Renegades	Rock River Renegades	1942	56	Drama	6.3	95		8
+18631	tt0051369	Apache Territory	Apache Territory	1958	71	Western	1.8	605		26
+86217	tt11568878	Residue	Residue	2020	90	Drama	9	649		8
+39324	tt0104219	American Citizen	Ezrah Amerikai	1992	100	Sport	6.8	73		22
+81391	tt10573984	Koko	Koko	2021	100	Drama	4.6	257		8
+31094	tt0081015	Kung Fu of 8 Drunkards	Zui ba xian quan	1980	92	Comedy	9.6	92		5
+86567	tt11655094	Sammy	Sammy	2002	79	Comedy	3.9	8		5
+43742	tt0117452	Red Lips II	Red Lips II	1996	93.81829254	Horror	8.3	64		14
+56683	tt0227034	Marsal	Marsal	1999	97	Comedy	6.7	1974		5
+20335	tt0055119	Madalena	Madalena	1960	91	Romance	6.1	1215		20
+53631	tt0195794	Home Remedy	Home Remedy	1987	90	Comedy	3.1	12		5
+147365	tt5232522	Dandelion	Chang Trai Nam Ay	2014	119	Comedy	10	475		5
+38858	tt0102753	Rambling Rose	Rambling Rose	1991	112	Drama	6.3	5394		8
+51474	tt0175891	Marie	Marie	1964	93.81829254	Drama	3.7	8		8
+123768	tt2392748	Scorched Earth	Scorched Earth	2018	96	Action	4.6	4479		0
+157792	tt7136896	Aladdin 2	Alad'2	2018	98	Comedy	1.8	1186		5
+135499	tt3467212	Behind Closed Doors	Behind Closed Doors	2014	90	Drama	8.3	31		8
+63439	tt0315985	The Houses Are Full of Smoke	The Houses Are Full of Smoke	1987	183	Documentary	10	14		7
+14317	tt0041824	Roseanna McCoy	Roseanna McCoy	1949	89	Drama	10	298		8
+167258	tt9463434	Silence of the Rain	O Silêncio da Chuva	2020	96	Crime	2.3	204		6
+126965	tt26438471	Danksgiving	Danksgiving	2023	64	Comedy	7.7	25		5
+165055	tt8870208	Against the Devil	Contra el Demonio	2018	93	Horror	1	53		14
+39549	tt0104786	Mad Dog Coll	Mad Dog Coll	1992	101	Crime	9	133		6
+29429	tt0076509	Otoko wa tsurai yo: Torajiro gambare!	Otoko wa tsurai yo: Torajiro gambare!	1977	95	Comedy	2.5	88		5
+106152	tt16378164	The Territory	The Territory	2022	85	Documentary	10	1264		7
+88977	tt12223620	The Slaughterhouse Killer	The Slaughterhouse Killer	2020	78	Horror	9.3	417		14
+133373	tt3222818	Seconda primavera	Seconda primavera	2016	108	Comedy	10	29		5
+34895	tt0092030	The Supernaturals	The Supernaturals	1986	91	Sci-Fi	5	794		21
+48585	tt0148031	White Wolves III: Cry of the White Wolf	White Wolves III: Cry of the White Wolf	1999	87	Action	7.9	194		0
+2359	tt0017210	No Man's Gold	No Man's Gold	1926	60	Western	2.7	29		26
+36604	tt0096442	Vienna Is Different: 50 Years After the Anschluss	Vienna Is Different: 50 Years After the Anschluss	1989	75	Documentary	3.1	8		7
+132727	tt3147046	Hundeliv	Hundeliv	2016	92	Drama	3.9	105		8
+34874	tt0091971	Sleepwalk	Sleepwalk	1986	78	Drama	5	498		8
+92948	tt13145694	The Church: Pillar and Ground of the Truth	The Church: Pillar and Ground of the Truth	2020	93.81829254	Documentary	10	6		7
+34858	tt0091939	She's Gotta Have It	She's Gotta Have It	1986	84	Romance	9	16048		20
+150168	tt5731710	The Best Thing!	The Best Thing!	2017	98	Comedy	7.3	24		5
+11509	tt0036474	The Underdog	The Underdog	1943	65	Romance	7.4	55		20
+94988	tt1346629	The Weather Station	Pryachsya	2011	83	Thriller	10	396		24
+114809	tt2014338	Side by Side	Side by Side	2012	99	Documentary	7.4	13676		7
+115957	tt2075232	One Mile Above	Kora	2011	90	Drama	7.8	280		8
+33147	tt0087068	Code Name: Wild Geese	Geheimcode Wildgänse	1984	101	Action	1.4	1091		0
+133565	tt3241870	Coming In	Coming In	2014	104	Romance	9.7	762		20
+43816	tt0117670	Smart Money	Smart Money	1996	90	Crime	10	20		6
+508	tt0007774	Captain of the Gray Horse Troop	Captain of the Gray Horse Troop	1917	50	Western	6.6	17		26
+50678	tt0167423	Diamonds	Diamonds	1999	91	Comedy	8.3	1787		5
+4817	tt0023567	Texas Cyclone	Texas Cyclone	1932	63	Drama	9.7	426		8
+107555	tt1695385	Dug Up	Dug Up	2013	84	Horror	9	131		14
+106864	tt1666822	Dadgum, Texas	Dadgum, Texas	2011	93.81829254	Comedy	8.7	10		5
+97938	tt1418702	Limelight	Limelight	2011	103	Documentary	5.4	528		7
+167388	tt9522162	Sing A Love Song to Me	Bana Bir Ask Sarkisi Söyle	2019	116	Drama	7.6	245		8
+2340	tt0017136	Metropolis	Metropolis	1927	153	Drama	8.5	183076		8
+13733	tt0040624	My Brother's Keeper	My Brother's Keeper	1948	86	Drama	8.7	304		8
+129422	tt28199975	Antigang: La Relève	Antigang: La relève	2023	90	Action	3.2	614		0
+1324	tt0012689	Queen of the Turf	Silks and Saddles	1921	50	Drama	3.7	34		8
+70717	tt0439211	Hummingbird	Hummingbird	2004	50	Documentary	3.8	40		7
+120477	tt22459840	Step by Step	Step by Step	2022	97	Documentary	8.5	246		7
+152366	tt6080746	Raag Desh	Raag Desh	2017	135	Drama	10	413		8
+47959	tt0141674	A Guest at Dinner	Un oaspete la cina	1986	86	Drama	9.7	50		8
+87701	tt1189341	The Lost Coast	The Lost Coast	2008	74	Drama	8.7	554		8
+12472	tt0038306	Return of the Black Eagle	Aquila nera	1946	97	Drama	9.2	119		8
+56549	tt0224363	The Wake	The Wake	1986	58	Drama	10	18		8
+77054	tt0898367	The Road	The Road	2009	111	Drama	3.6	251391		8
+129941	tt2856240	With Beak and Claw	Dziobem i pazurem	2002	52	Documentary	10	20		7
+86743	tt11697690	The Woman Who Ran	Domangchin yeoja	2020	77	Drama	2.5	3518		8
+9522	tt0032584	Heroes of the Saddle	Heroes of the Saddle	1940	56	Action	5.5	21		0
+23286	tt0061743	A Happening in Hamelin	Hamelín	1969	83	Family	8.6	18		9
+117339	tt2122273	After Happily Ever After	After Happily Ever After	2011	62	Documentary	3.5	8		7
+150215	tt5739586	A Boy Who Wished to Be Okuda Tamio and a Girl Who Drove All Men Crazy	Okuda Tamio ni naritai Boy to deau otoko subete kuruwaseru Girl	2017	100	Romance	3.6	181		20
+81297	tt10551144	The Lost Women of NXIVM	The Lost Women of NXIVM	2019	86	Mystery	7.5	105		17
+27186	tt0070564	The Prodigal Boxer	Fang Shi Yu	1972	90	Drama	2.1	337		8
+168157	tt9752544	Samurai Shifters	Hikkoshi daimyô!	2019	120	Comedy	9.8	287		5
+17739	tt0049261	Giant	Giant	1956	201	Western	3.2	41734		26
+14782	tt0042808	One Too Many	One Too Many	1950	110	Drama	5.8	53		8
+106828	tt1665730	GPS	GPS	2010	71	Sci-Fi	6.3	11		21
+2138	tt0016508	Webs of Steel	Webs of Steel	1925	93.81829254	Drama	6.9	13		8
+156897	tt6926356	Samurai's Promise	Chiri tsubaki	2018	111	Action	9.8	237		0
+12063	tt0037541	The Big Show-Off	The Big Show-Off	1945	69	Comedy	7.1	102		5
+107783	tt1702614	Dudamel: Let the Children Play	Dudamel: Let the Children Play	2010	90	Documentary	7.1	52		7
+11944	tt0037317	Strange Affair	Strange Affair	1944	78	Action	10	293		0
+72810	tt0473335	Blacktown	Blacktown	2005	92	Drama	4.1	60		8
+7238	tt0028353	Thank You, Jeeves!	Thank You, Jeeves!	1936	57	Comedy	3.1	302		5
+95247	tt13528122	iMordecai	iMordecai	2022	102	Family	9	171		9
+154005	tt6330554	Strange Tales of Love and Strangers	Ren'ai kitanshû	2017	93.81829254	Horror	1	48		14
+52115	tt0181781	Rabbit in the Moon	Rabbit in the Moon	1999	85	History	2.1	127		13
+110134	tt1794829	The House under the Water	Khaneye zire âb	2010	92	Drama	3.1	41		8
+1406	tt0013132	Flames of Passion	Flames of Passion	1923	50	Drama	5.8	12		8
+63687	tt0319360	Angels	Englene	1973	93.81829254	Drama	7.9	14		8
+146086	tt5047372	The Way Forward	The Way Forward	2017	88	Drama	8.1	9		8
+67398	tt0380680	Running Against Dick	Running Against Dick	2004	87	Documentary	5.7	25		7
+159361	tt7464250	Shootball	Shootball	2017	99	Documentary	5.1	31		7
+67453	tt0381631	Super Ranger Kids	Super Ranger Kids	1997	95	Adventure	7.2	30		2
+141752	tt4319842	The Basement	The Basement	2015	90	Horror	2.3	88		14
+59102	tt0259741	Summer Holiday	Ha yat dik mo mo cha	2000	98	Comedy	7.1	520		5
+55681	tt0213847	Malena	Malèna	2000	108	War	10	110422		25
+48250	tt0144120	Bride of Chucky	Bride of Chucky	1998	89	Thriller	5.3	63563		24
+88162	tt1199778	Birthday	Birthday	2009	104	Drama	5.2	77		8
+117247	tt21194534	The Artist & the Wall of Death	The Artist & the Wall of Death	2022	86	Documentary	2.5	17		7
+112587	tt1900967	Rotgut	Rotgut	2012	101	Horror	8.4	27		14
+42553	tt0113847	The Monkey Kid	The Monkey Kid	1995	95	Family	3.6	33		9
+78060	tt0973844	To Each His Own Cinema	Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence	2007	100	Comedy	10	5380		5
+141898	tt4340916	Anxietyville	Anxietyville	2015	88	Comedy	1.6	20		5
+75891	tt0828100	Dating a Vampire	Oi seun si sun leung	2006	88	Comedy	3.7	112		5
+139751	tt4036334	Invisibles	Shkufim	2014	92	Drama	4.4	24		8
+37074	tt0097755	Limit Up	Limit Up	1989	88	Comedy	6.9	262		5
+128054	tt27219923	Warrior King	Warrior King	2023	114	Animation	7.7	39		3
+49662	tt0160338	Guinevere	Guinevere	1999	104	Romance	1.3	2728		20
+161504	tt7952374	This Is Home	This Is Home	2017	50	Sport	10	10		22
+72779	tt0472990	14 Days in America	14 Days in America	2005	75	Documentary	4.2	13		7
+147631	tt5274066	Raising the Bar	Raising the Bar	2016	93	Sport	10	1743		22
+125931	tt2550838	The Worst Christmas of My Life	Il peggior Natale della mia vita	2012	86	Comedy	8.8	1242		5
+119633	tt22069066	The Stomping Grounds	The Stomping Grounds	2021	93.81829254	Documentary	10	17		7
+144712	tt4820972	Yamikin Dogs	Yamikin doggusu	2015	88	Comedy	9.8	14		5
+128649	tt27641028	Attack on Titan: The Weight of Pain	Attack on Titan: The Weight of Pain	2023	155	Animation	7.5	250		3
+136765	tt3606496	Jen che ch'ien lung	Jen che ch'ien lung	1984	84	Action	3.1	12		0
+123640	tt2387440	The Dahl Dynasty	The Dahl Dynasty	2012	87	Drama	5	16		8
+15974	tt0045190	The Steel Trap	The Steel Trap	1952	85	Drama	8.4	1184		8
+47108	tt0135055	Wings Over the Pacific	Wings Over the Pacific	1943	60	Drama	3.9	83		8
+145516	tt4945640	911: Officer Down	911: Officer Down	2018	85	Crime	1	45		6
+71546	tt0452971	Dark Blue Almost Black	Azuloscurocasinegro	2006	105	Drama	10	8526		8
+4848	tt0023634	I Was Born, But...	Otona no miru ehon - Umarete wa mita keredo	1932	90	Comedy	7.1	6085		5
+4205	tt0022291	Quick Trigger Lee	Quick Trigger Lee	1931	57	Western	6.1	22		26
+126028	tt25589808	Broken Eyes	Broken Eyes	2023	114	Drama	8.4	35		8
+66718	tt0370473	A Girl from Shiraz	Dokhtari az Shiraz	1954	130	Thriller	9.1	15		24
+156014	tt6751668	Parasite	Gisaengchung	2019	132	Drama	10	921998		8
+40756	tt0108311	The Temp	The Temp	1993	96	Drama	9.2	3563		8
+139276	tt3920498	The Loop	Petlja	2015	74	Mystery	9.1	25		17
+84339	tt11173116	Yaar Anmulle Returns	Yaar Anmulle Returns	2021	130	Drama	5.3	717		8
+142641	tt4471630	64: Part I	Rokuyon: Zenpen	2016	121	Mystery	2.6	390		17
+111586	tt1851041	The Old Man and the Fairy	Qiu weng yu xian ji	1956	93.81829254	Drama	3.5	8		8
+152274	tt6067892	Stateless	Stateless	2020	97	Documentary	10	70		7
+59488	tt0265245	Jimi Hendrix at Woodstock	Jimi Hendrix at Woodstock	1993	57	Music	6.5	144		15
+81933	tt10687102	Moments in Spacetime	Moments in Spacetime	2020	112	Drama	9	98		8
+78862	tt10081762	Breaking Surface	Breaking Surface	2020	82	Drama	6.9	5632		8
+26660	tt0069279	Slaughter	Slaughter	1972	92	Action	3.6	1279		0
+141700	tt4310428	Take My Nose... Please!	Take My Nose... Please	2017	92	Documentary	8.1	34		7
+36268	tt0095618	My Dream Is Yours	Meng guo jie	1988	89	Drama	1	21		8
+157224	tt7007162	Flameworker	Flameworker	2016	93.81829254	Documentary	10	14		7
+119178	tt21915352	Something Walks in the Woods	Something Walks in the Woods	2023	81	Horror	1	173		14
+26077	tt0067982	Who Says I Can't Ride a Rainbow!	Who Says I Can't Ride a Rainbow!	1971	85	Family	8.9	92		9
+46591	tt0130175	Pandemonium, the Hell's Capital City	Pandemonium, la capital del infierno	1997	97	Drama	2.4	51		8
+112750	tt1913080	Murder for Pleasure	Murder for Pleasure	2016	90	Horror	1	53		14
+13828	tt0040798	Sleep, My Love	Sleep, My Love	1948	97	Drama	2.8	2124		8
+7226	tt0028333	Swing Time	Swing Time	1936	103	Musical	6.9	14455		16
+109294	tt1756792	The Call of the Entrepreneur	The Call of the Entrepreneur	2007	58	Documentary	4.8	41		7
+160498	tt7696006	Imitation Woman	Zane Badali	2005	104	Comedy	4.6	117		5
+35415	tt0093450	The Lullaby	Kolysanka	1986	75	Drama	3.9	20		8
+158383	tt7260830	Neon Heart	Neon Heart	2018	86	Drama	1.8	331		8
+104300	tt1570991	War Don Don	War Don Don	2010	83	Documentary	6.6	159		7
+85696	tt11448636	Latvian Coyote	Latvian Coyote	2019	69	Documentary	9.5	52		7
+133244	tt3208882	The Sickness	The Sickness	2014	93.81829254	Horror	1.9	9		14
+85775	tt11465786	Karate Man	Karate Man	2022	85	Drama	9.5	24		8
+47314	tt0136496	It Happened in Havana	El romance del palmar	1938	113	Comedy	5.4	16		5
+155318	tt6588968	Dirty Blood	Nabbeun Pi	2012	130	Thriller	3.7	20		24
+40865	tt0108615	Red Beads	Xuan lian	1994	90	Drama	3.9	16		8
+113007	tt1929326	Night of the Bums	Night of the Bums	1998	73	Horror	2.8	22		14
+164008	tt8587280	Queen Without Land	Queen without Land	2018	70	Documentary	10	38		7
+49600	tt0159673	Prisonniers de la brousse	Prisonniers de la brousse	1960	94	Drama	6.5	22		8
+7046	tt0028002	The Murder of Dr. Harrigan	The Murder of Dr. Harrigan	1935	67	Romance	6.6	286		20
+38804	tt0102594	One Hand Don't Clap	One Hand Don't Clap	1991	92	Music	9.1	9		15
+18427	tt0050815	Pal Joey	Pal Joey	1957	111	Drama	8.4	5781		8
+93237	tt1320261	Gulliver's Travels	Gulliver's Travels	2010	85	Family	1.9	72916		9
+106093	tt1636780	Gintama: The Movie	Gekijôban Gintama: Shin'yaku Benizakura hen	2010	96	Comedy	9.7	2221		5
+46009	tt0126075	Square Shoulders	Square Shoulders	1929	58	Action	3.2	31		0
+62378	tt0300532	Blue Crush	Blue Crush	2002	104	Romance	3.1	32681		20
+150097	tt5719786	Never Hike Alone	Never Hike Alone	2017	54	Horror	7.9	2821		14
+142326	tt4423990	The Man Who Invented the Vespa	Una vespa mi ha punto	2015	55	Documentary	9	12		7
+130382	tt2902300	Altered	Altered	2015	93.81829254	Crime	5.2	11		6
+134774	tt3383784	Binge	Binge	2014	110	Thriller	5.2	21		24
+138909	tt3871804	After Love	Die blauen Stunden	2015	72	Drama	2.9	15		8
+13145	tt0039485	An Ideal Husband	An Ideal Husband	1947	96	Comedy	8.1	829		5
+89805	tt12415670	Kingdom II: Harukanaru Daichi e	Kingdom II: Harukanaru Daichi e	2022	134	Adventure	3.7	1186		2
+72677	tt0470994	Dan Aykroyd Unplugged on UFOs	Dan Aykroyd Unplugged on UFOs	2005	81	Documentary	7.9	365		7
+93222	tt1320098	The Jersey Devil	The Jersey Devil	2011	103	Thriller	3.8	25		24
+85597	tt11426228	Spirit Halloween	Spirit Halloween	2022	81	Family	7.2	1492		9
+150743	tt5821704	Toofan	Toofan	2013	137	Action	6.9	522		0
+152985	tt6163356	Michael Moore in TrumpLand	Michael Moore in TrumpLand	2016	73	Documentary	2.7	4073		7
+25385	tt0066421	Summer in the City	Summer in the City	1971	116	Drama	2.5	331		8
+41675	tt0111067	Sangdil Sanam	Sangdil Sanam	1994	156	Drama	1.9	685		8
+84391	tt11182846	Soul Pursuit	Soul Pursuit	2021	83	Drama	8.4	93		8
+119143	tt21904742	Sons of God: Fallen Angels Explored	Sons of God: Fallen Angels Explored	2022	71	Documentary	4.9	17		7
+102679	tt1532348	Juliets	Zhu li ye	2010	106	Drama	9.8	180		8
+124965	tt2462580	The Nymphets	The Nymphets	2015	75	Drama	1.6	259		8
+72059	tt0461331	H.P. Lovecraft - The Terror Within	Il mistero di Lovecraft - Road to L.	2005	92	Thriller	1.5	244		24
+159260	tt7436428	Such a Great Love	Un amore così grande	2018	106	Romance	10	132		20
+99486	tt14565414	Fish and Puddle	Mahi Va Berke	2021	76	Drama	2.4	2174		8
+162330	tt8144954	Giants and the Morning After	Händelser i Ydre	2018	88	Documentary	3.7	72		7
+72478	tt0468459	Cain and Abel	Cain and Abel	2006	91	Comedy	1.5	88		5
+12028	tt0037461	The Whistler	The Whistler	1944	59	Mystery	7.3	1096		17
+22180	tt0059170	Faster, Pussycat! Kill! Kill!	Faster, Pussycat! Kill! Kill!	1965	83	Comedy	9.5	15965		5
+94895	tt13449624	Jug Jugg Jeeyo	Jug Jugg Jeeyo	2022	148	Family	10	38785		9
+45190	tt0120902	The X Files	The X Files	1998	121	Drama	4.7	109368		8
+9836	tt0033196	Typhoon	Typhoon	1940	70	Adventure	3.5	143		2
+46139	tt0126857	Daughters	Daughters	1997	75	Drama	5.9	7		8
+36557	tt0096321	Twister	Twister	1989	93	Drama	6.4	2240		8
+31723	tt0082849	On the Right Track	On the Right Track	1981	97	Romance	3.9	566		20
+126424	tt25994796	Detective Conan: Episode of Ai Haibara - Black Iron Mystery Train	Detective Conan Haibara Aimonogatari Black Iron Mystery Train	2023	90	Crime	10	299		6
+62342	tt0299958	Hale Bopp	Hale Bopp	2003	93.81829254	Drama	10	19		8
+98166	tt14241366	Shadows	Shadows	2020	94	Thriller	2.9	65		24
+109151	tt1754177	Mardock Scramble: The First Compression	Marudukku sukuranburu: Asshuku	2010	69	Drama	8.1	1568		8
+1409	tt0013139	A Fool There Was	A Fool There Was	1922	70	Drama	8.3	21		8
+88381	tt12057590	Social Distance	7th Revelation	2020	102	Thriller	4.1	57		24
+110364	tt1807081	Humdinger	Humdinger	2011	96	Comedy	5.1	3989		5
+35069	tt0092654	The Big Easy	The Big Easy	1986	102	Crime	3.2	13773		6
+27273	tt0070754	Superman	Superman	1973	104	Adventure	2.2	211		2
+144813	tt4838340	The Beloved	Chong sheng ai ren	2015	89	Romance	5.4	22		20
+48867	tt0151416	The Lumière Brothers' First Films	The Lumière Brothers' First Films	1996	61	History	3.2	412		13
+112872	tt1922612	Glee: The 3D Concert Movie	Glee: The 3D Concert Movie	2011	84	Music	10	6009		15
+2152	tt0016553	The Wrongdoers	The Wrongdoers	1925	50	Drama	10	17		8
+25896	tt0067618	Private Duty Nurses	Private Duty Nurses	1971	80	Thriller	8.6	266		24
+5434	tt0024867	Bedside	Bedside	1934	66	Drama	9.5	257		8
+24326	tt0064115	Butch Cassidy and the Sundance Kid	Butch Cassidy and the Sundance Kid	1969	110	Crime	6.1	224900		6
+81782	tt10660304	Thumbaa	Thumbaa	2019	123	Adventure	1.7	144		2
+54055	tt0199721	The Crazy Musician	El loco Serenata	1939	92	Comedy	10	9		5
+121225	tt2278977	Photo	Photo	2012	85	Drama	9.5	72		8
+125210	tt24852002	10 Days of a Bad Man	Kötü Adamin 10 Günü	2023	123	Mystery	7.9	2356		17
+88521	tt12093990	Benjamin	Benyamin	2019	83	Animation	2	159		3
+112214	tt1878917	The Pledge	The Pledge	2011	118	Family	6	187		9
+73731	tt0489010	A Crime	A Crime	2006	103	Crime	4.9	2124		6
+82346	tt10771232	Slaughterhouse Slumber Party	Slaughterhouse Slumber Party	2019	85	Horror	1	192		14
+101234	tt15006566	The Beasts	As bestas	2022	137	Thriller	10	16195		24
+33022	tt0086605	Winners & Sinners	Qi mou miao ji: Wu fu xing	1983	108	Action	4	5544		0
+55287	tt0209486	Wish You Were Dead	Wish You Were Dead	2001	100	Comedy	4.4	497		5
+32102	tt0084044	Hajji Washington	Hajji Washington	1983	98	Drama	2.5	752		8
+45134	tt0120807	Ricochet River	Ricochet River	2001	112	Drama	1	328		8
+29614	tt0076933	The World's Greatest Lover	The World's Greatest Lover	1977	89	Comedy	1	2188		5
+165628	tt9011228	L 38	L 38	2018	80	Crime	2.4	18		6
+123292	tt2375906	Scavenger Killers	Scavenger Killers	2014	100	Horror	1.7	171		14
+158540	tt7287190	Uncertain Future	Lendemains incertains	2018	69	Documentary	4	8		7
+85279	tt11366736	Deadly Cuts	Deadly Cuts	2021	90	Comedy	6.4	1346		5
+49958	tt0162991	Hooch	Hooch	1977	96	Comedy	8.1	46		5
+109435	tt1764179	Android Re-Enactment	Android Re-Enactment	2011	97	Sci-Fi	3	27		21
+131644	tt3030958	The Spider's Lair	Babagwa	2013	101	Drama	9.9	41		8
+87253	tt11802992	Given	Eiga Given	2020	59	Animation	8.6	2308		3
+17935	tt0049706	Safari	Safari	1956	90	Adventure	5.9	645		2
+40897	tt0108782	The Game	The Game	1994	105	Thriller	2.2	19		24
+96873	tt13927224	13 Midnights	13 Midnights	2020	75	Horror	8.4	15		14
+95925	tt1369571	I Am Fear	I Am Fear	2020	87	Thriller	7.2	1157		24
+19507	tt0053274	The Overcoat	Shinel	1959	75	Drama	10	326		8
+151927	tt6013154	Dolores	Dolores	2017	95	Biography	10	370		4
+77229	tt0910574	Running Funny	Running Funny	2007	77	Drama	9.4	62		8
+88883	tt12200256	No Escapes	Ogon	2020	131	Drama	3.6	1561		8
+127218	tt26598867	Tokyo Revengers 2: Bloody Halloween - Decisive Battle	Tokyo Revengers 2: Bloody Halloween - Decisive Battle	2023	96	Crime	10	145		6
+46872	tt0133033	Make Like a Thief	Juokse kuin varas	1964	88	Thriller	9	90		24
+89961	tt1244666	Fish Story	Fisshu sutôrî	2009	113	Action	6.8	3401		0
+125937	tt2551428	Lasting	Nieulotne	2013	95	Drama	4.1	580		8
+135932	tt3512282	Snow on the Blades	Zakurozaka no adauchi	2014	119	Action	9.2	269		0
+104325	tt1571408	Opstandelsen	Opstandelsen	2010	50	Action	3.4	333		0
+3366	tt0020456	Strange Cargo	Strange Cargo	1929	75	Mystery	5.8	43		17
+98896	tt14413652	Raise the Bar	Hækkum rána	2021	70	Documentary	10	72		7
+22653	tt0060219	Castle of Evil	Castle of Evil	1966	81	Sci-Fi	7.3	305		21
+57877	tt0243171	The Cart	Charkh	2000	70	Comedy	4.6	24		5
+158541	tt7287680	The Immortal Wars: Resurgence	The Immortal Wars: Resurgence	2019	112	Action	1	235		0
+23692	tt0062713	Guns for San Sebastian	La bataille de San Sebastian	1968	111	Drama	2.2	2343		8
+10482	tt0034407	You Belong to Me	You Belong to Me	1941	94	Romance	8.3	808		20
+146915	tt5164308	Still Pitching	Still Pitching	2022	93.81829254	Drama	2.9	9		8
+67468	tt0381874	American Rebel: The Dean Reed Story	American Rebel: The Dean Reed Story	1985	93	Documentary	4.2	23		7
+72480	tt0468464	Crippled Creek	Crippled Creek	2005	89	Horror	1	123		14
+111842	tt1860318	The Detective Is in the Bar	Tantei wa bar ni iru	2011	125	Drama	2.5	395		8
+74652	tt0778120	Sunday Seoul	Sunday Seoul	2005	95	Comedy	8.2	148		5
+118803	tt21810762	The Jungle Bunch 2: World Tour	Les As de la Jungle 2	2023	89	Comedy	10	104		5
+10853	tt0035199	Police Bullets	Police Bullets	1942	61	Action	4.8	19		0
+55688	tt0213969	Padaiyappa	Padayappa	1999	181	Drama	9.2	7773		8
+60945	tt0284876	Babyshakes & the Return of Macdaddy	Babyshakes & the Return of Macdaddy	1998	93.81829254	Comedy	5.1	13		5
+136768	tt3606752	Cars 3	Cars 3	2017	102	Adventure	2.9	117596		2
+137264	tt3674026	A Boyfriend for my Wife	Un fidanzato per mia moglie	2014	97	Romance	4	569		20
+12854	tt0038967	Son of the Guardsman	Son of the Guardsman	1946	93.81829254	Adventure	7.1	46		2
+9	tt0001159	The Connecticut Yankee	The Connecticut Yankee	1910	93.81829254	Drama	5.1	31		8
+42675	tt0114170	Power 98	Power 98	1996	89	Action	5.2	314		0
+63849	tt0321899	Warm Current	Danryû	1939	177	Drama	7.1	36		8
+112448	tt1893365	The Final Shift	The Final Shift	2012	90	Sci-Fi	1	36		21
+53712	tt0196588	The Girl from S.I.N.	The Girl from S.I.N.	1966	68	Comedy	4.5	98		5
+35139	tt0092814	Love Sins	D'Annunzio	1987	113	Drama	1.6	87		8
+94249	tt13369990	Gully Gang	Gully Gang	2020	98	Comedy	7.1	52		5
+116380	tt20877264	A Room of My Own	Chemi otakhi	2022	107	Drama	10	162		8
+142721	tt4485178	I Am a Soldier	Je suis un soldat	2015	96	Drama	9.8	372		8
+44848	tt0120255	The Sweet Hereafter	The Sweet Hereafter	1997	112	Drama	10	36490		8
+9969	tt0033468	Father Steps Out	Father Steps Out	1941	63	Comedy	3.9	19		5
+69425	tt0417741	Harry Potter and the Half-Blood Prince	Harry Potter and the Half-Blood Prince	2009	153	Adventure	9.2	586072		2
+31802	tt0083061	The Shanghai Thirteen	Shang Hai tan: Shi san tai bao	1984	90	Action	9	202		0
+11921	tt0037271	Sheriff of Sundown	Sheriff of Sundown	1944	55	Western	4.5	62		26
+134188	tt3311176	The Reunion 2: The Funeral	Klassefesten 2: Begravelsen	2014	95	Comedy	1.8	1843		5
+100162	tt1474268	The Last Christeros	Los últimos cristeros	2011	89	Western	4.2	139		26
+141139	tt4218644	The Edge of Sin	Tsumi no yohaku	2015	120	Drama	5.8	34		8
+161785	tt8011654	Zeke	Zeke	2020	93.81829254	Action	2.7	10		0
+31464	tt0082230	Lady of the Camelias	La storia vera della signora dalle camelie	1981	115	Drama	10	704		8
+24277	tt0064008	The Queer... The Erotic	L'altra faccia del peccato	1969	95	Documentary	1.1	10		7
+27319	tt0070837	Chetan, Indian Boy	Tschetan, der Indianerjunge	1973	90	Western	9.6	95		26
+100837	tt14903018	Gentle	Szelíd	2022	92	Drama	8.4	373		8
+158053	tt7192934	Slipknot: Day of the Gusano	Slipknot: Day of the Gusano	2017	120	Documentary	2.8	650		7
+113379	tt1945084	Everly	Everly	2014	92	Action	9.5	19276		0
+7627	tt0029070	Join the Marines	Join the Marines	1937	67	Action	5.9	36		0
+92797	tt13117258	Where Is Mikel?	Non Dago Mikel?	2020	80	Documentary	8.7	52		7
+24323	tt0064107	A Boy Named Charlie Brown	A Boy Named Charlie Brown	1969	86	Drama	5.5	5561		8
+6776	tt0027498	Dangerous Waters	Dangerous Waters	1936	66	Drama	10	38		8
+118170	tt2148482	The Ultimate Civil War Series: 150th Anniversary Edition	The Ultimate Civil War Series: 150th Anniversary Edition	2012	353	Documentary	9.4	72		7
+55790	tt0215672	Corruption of the Damned	Corruption of the Damned	1966	50	Comedy	7.2	59		5
+80521	tt10405760	The Shift	The Shift	2020	83	Thriller	1.6	326		24
+99904	tt14670524	Victim	Victim	2021	120	Drama	4.4	10		8
+123244	tt2375037	Full Circle	Full Circle	2013	83	Comedy	4.2	382		5
+80352	tt10378660	The Dark Knight: The Ballad of the N Word	The Dark Knight: The Ballad of the N Word	2018	129	Comedy	8.6	146		5
+21332	tt0057263	Love with the Proper Stranger	Love with the Proper Stranger	1963	102	Drama	10	5372		8
+74601	tt0773304	Revoloution	Revoloution	2006	80	Drama	10	93		8
+117476	tt21254598	Cobweb	Geomijip	2023	135	Comedy	9.5	810		5
+66377	tt0365927	Whitcomb's War	Whitcomb's War	1980	67	Comedy	3.8	22		5
+83590	tt11028768	The People Upstairs	Sentimental	2020	82	Comedy	2.7	3099		5
+22986	tt0060978	Seven Dollars to Kill	7 dollari sul rosso	1966	85	Drama	1	349		8
+100460	tt14813966	Tyler Perry's A Madea Homecoming	A Madea Homecoming	2022	105	Drama	5.2	4761		8
+9389	tt0032338	Christmas in July	Christmas in July	1940	67	Drama	4.2	4218		8
+40000	tt0106292	Another Stakeout	Another Stakeout	1993	108	Crime	2.2	15263		6
+49058	tt0154358	The Tales of a Thousand and One Nights	Les contes de mille et une nuits	1921	93.81829254	Adventure	9.6	18		2
+143094	tt4543578	Drop Dead Gorgeous	Linda de Morrer	2015	100	Fantasy	5.3	340		10
+58083	tt0245397	Roots Rock Reggae	Roots Rock Reggae	1979	60	Documentary	6.6	114		7
+168254	tt9784048	Alive	Jandar	2019	100	Drama	9.5	1358		8
+48037	tt0142206	Address Unknown	Címzett ismeretlen	1935	83	Comedy	6.4	74		5
+93349	tt13225588	I Didn't Dare Tell You	Bugan gen ni jiang	1969	78	Drama	2.6	16		8
+37720	tt0099558	Operation Condor	Fei ying gai wak	1991	98	Comedy	9.4	22341		5
+47574	tt0138548	Justice	Justice	1998	95	Drama	6.1	24		8
+60451	tt0279016	Charlie and the Talking Buzzard	Charlie and the Talking Buzzard	1979	66	Fantasy	8	41		10
+68027	tt0390272	Lost in Time	Mong bat liu	2003	109	Romance	9.3	1142		20
+155882	tt6722202	Guzbay New York	Guzbay New York	2019	90	Drama	4.2	13		8
+117011	tt2111297	The Pot	Dok	2008	115	Horror	1.3	129		14
+77840	tt0961725	Devour	Devour	2011	93.81829254	Horror	7.2	24		14
+43179	tt0116000	D3: The Mighty Ducks	D3: The Mighty Ducks	1996	104	Action	3.9	28342		0
+22883	tt0060737	Namu, the Killer Whale	Namu, the Killer Whale	1966	89	Family	7.2	359		9
+83092	tt10923940	Lava	Lava	2019	67	Comedy	4.7	138		5
+59769	tt0269347	The Hunted	The Hunted	2003	94	Action	3.5	50738		0
+122937	tt2363070	Night of the Living Heads	Night of the Living Heads	2010	86	Horror	1	30		14
+24357	tt0064167	On My Way to the Crusades, I Met a Girl Who...	La cintura di castità	1967	103	Comedy	7.4	230		5
+86483	tt11634048	Escaping Paradise	Escaping Paradise	2022	91	Thriller	1	694		24
+35992	tt0094950	Dark Mission: Evil Flowers	Dark Mission: Flowers of Evil	1988	85	Adventure	1.2	252		2
+65584	tt0352935	The Trial	The Trial	2002	93.81829254	Drama	3	17		8
+82230	tt1074638	Skyfall	Skyfall	2012	143	Thriller	9	724293		24
+160771	tt7762434	Four Isfahanians in Bagdad	Chahar Esfahani dar Baghdad	2016	80	Drama	1.2	82		8
+161889	tt8042112	Gypsy	Gypsy	2020	145	Drama	4.6	765		8
+21567	tt0057809	36 Hours	36 Hours	1964	115	Thriller	5.3	4687		24
+60433	tt0278666	Raped by an Angel 5: The Final Judgement	Chai fok yau wak 2: Dei ha fat ting	2000	84	Mystery	5.7	126		17
+2503	tt0017685	Blonde or Brunette	Blonde or Brunette	1927	60	Comedy	7.7	18		5
+5621	tt0025239	Here Is My Heart	Here Is My Heart	1934	77	Musical	4.8	177		16
+154282	tt6388200	Hooker with a Hacksaw	Hooker with a Hacksaw	2017	70	Horror	2.2	160		14
+72322	tt0465140	Los aires difíciles	Los aires difíciles	2006	117	Drama	9.9	455		8
+69560	tt0419610	A Good Death Beats a Dull Life	Hijas de su madre: Las Buenrostro	2005	120	Comedy	6.9	98		5
+23676	tt0062682	Deadly Inheritance	Omicidio per vocazione	1968	81	Mystery	2.9	310		17
+161363	tt7918338	Bilderberg: The Movie	Bilderberg: The Movie	2014	87	Documentary	1	205		7
+109182	tt1754421	Return of Sergeant Lapins	Serzanta Lapina atgriesanas	2010	80	Comedy	4.6	226		5
+155046	tt6523814	Rodman	Rodman	2020	93.81829254	Documentary	3.1	31		7
+117574	tt2128540	Silencio en el paraíso	Silencio en el paraíso	2011	93	Drama	6.1	270		8
+52927	tt0188757	Kill by Inches	Kill by Inches	1999	80	Thriller	6.4	428		24
+164378	tt8689270	The Only One	Horse Latitudes	2020	104	Romance	5.9	315		20
+92986	tt13153298	Me the People	Me the People	2020	76	Documentary	3.2	11		7
+65607	tt0353328	The First Amendment of Korea	Daehanminguk heonbeob je 1jo	2003	108	Comedy	5.1	79		5
+163863	tt8542864	Nefarious	Nefarious	2020	107	Horror	4.3	12		14
+15799	tt0044871	Man Bait	The Last Page	1952	84	Drama	7.7	837		8
+2909	tt0019064	Ladies' Night in a Turkish Bath	Ladies' Night in a Turkish Bath	1928	70	Comedy	9	36		5
+161919	tt8046008	Literary Ink	Literary Ink	2020	92	Documentary	3.2	68		7
+42072	tt0112607	Bye-Bye	Bye-Bye	1995	105	Drama	10	247		8
+137638	tt3717316	Hunter Gatherer	Hunter Gatherer	2016	90	Drama	1.5	681		8
+49999	tt0163234	Silas Marner	Silas Marner	1922	70	Drama	4	15		8
+150048	tt5713960	Titanic: Sinking the Myths	Titanic: Sinking the Myths	2017	176	Documentary	7.9	145		7
+36504	tt0096194	Super Xuxa Contra o Baixo Astral	Super Xuxa Contra o Baixo Astral	1988	86	Comedy	7	968		5
+148562	tt5463162	Deadpool 2	Deadpool 2	2018	119	Adventure	2.7	630924		2
+159383	tt7469828	Paradise Highway	Paradise Highway	2022	115	Drama	1.2	6192		8
+33992	tt0089522	Honeymoon	Lune de miel	1985	101	Thriller	3.8	130		24
+149957	tt5699154	C'est la vie!	Le sens de la fête	2017	117	Romance	7.3	11831		20
+27906	tt0072273	There Is No 13	There Is No 13	1974	113	Romance	7.5	26		20
+21958	tt0058632	Code 7, Victim 5	Victim Five	1964	88	Adventure	1	346		2
+158167	tt7218804	The Gospel According to André	The Gospel According to André	2017	93	Documentary	7.6	833		7
+68996	tt0410095	Hunting Season	Hunting Season	2005	79	Horror	4.5	112		14
+150110	tt5721734	Cinema Novo	Cinema Novo	2016	90	Documentary	10	430		7
+100887	tt14916046	Merry Switchmas	Merry Switchmas	2021	90	Family	1.6	106		9
+160967	tt7817568	The Sacrifice	Jodi Akdin	2019	135	Romance	4	457		20
+92746	tt1310670	The Taken	The Taken	2009	93.81829254	Horror	10	43		14
+64909	tt0339663	The Sheriff's Lash	The Sheriff's Lash	1929	54	Adventure	4.2	22		2
+91049	tt12735384	The Lake	The Lake	2020	96	Drama	7.1	14		8
+70375	tt0433386	The Grudge 2	The Grudge 2	2006	102	Thriller	2.6	51160		24
+17750	tt0049280	The Great Man	The Great Man	1956	92	Drama	3.1	465		8
+19387	tt0053026	A Lust to Kill	A Lust to Kill	1958	74	Drama	5	98		8
+91360	tt12797976	The Kennedy Incident	The Kennedy Incident	2021	101	Drama	2.9	1062		8
+33584	tt0088250	A Test of Love	Annie's Coming Out	1984	96	Drama	6.6	181		8
+12836	tt0038937	Shock	Shock	1946	70	Thriller	4.2	3227		24
+71214	tt0448130	Berlin Stories	Stadt als Beute	2005	93	Drama	9.2	173		8
+24891	tt0065374	The Adventurers	The Adventurers	1970	171	Adventure	9.6	885		2
+144537	tt4791546	Ready for Action	Ready for Action	2015	80	Comedy	6.3	6		5
+153225	tt6202264	Boseefus: The Movie	Boseefus: The Movie	2016	110	Comedy	10	13		5
+145961	tt5027162	Aurora Borealis: Northern Light	Aurora Borealis: Északi fény	2017	104	Drama	2.4	1313		8
+18283	tt0050524	Hot Summer Night	Hot Summer Night	1957	86	Drama	9.3	421		8
+25785	tt0067384	Short Night of Glass Dolls	La corta notte delle bambole di vetro	1971	97	Horror	8.1	3594		14
+28374	tt0073626	Revolver	Revolver	1973	111	Thriller	5.7	2322		24
+18403	tt0050771	No Down Payment	No Down Payment	1957	105	Drama	5.7	1179		8
+85041	tt1131743	Necrosis	Necrosis	2009	90	Horror	5.3	1093		14
+21737	tt0058165	Gunfight at Comanche Creek	Gunfight at Comanche Creek	1963	90	Western	7.2	818		26
+80304	tt1037228	Cloud 9	Wolke 9	2008	99	Romance	10	1562		20
+92685	tt13093266	Intelligent Design	Intelligent Design	2020	93.81829254	Sci-Fi	5.2	11		21
+145234	tt4907206	Turnt	Turnt	2020	85	Drama	1	2331		8
+135888	tt3509662	Holiday	Feriado	2014	82	Drama	3.9	429		8
+59613	tt0266849	Dead Man's Hand	Petites misères	2002	77	Comedy	5.4	135		5
+30980	tt0080749	The Fog	The Fog	1980	89	Horror	2.1	81850		14
+97991	tt14201576	Blueback	Blueback	2022	102	Drama	8.4	1001		8
+165203	tt8905928	Changaa Chait	Changa Chet	2018	141	Romance	1.5	13		20
+117973	tt2140379	Self/less	Self/less	2015	117	Action	9.7	103285		0
+77564	tt0938330	Silent Hill: Revelation	Silent Hill: Revelation	2012	95	Horror	1.7	66231		14
+146699	tt5131516	Heavy Water	Heavy Water - The Acid Drop	2015	84	Documentary	10	117		7
+91463	tt12821446	Reality Winner	Reality Winner	2021	93	Documentary	3.6	47		7
+94929	tt1345525	Rebellion	Tung moon	2009	100	Crime	10	320		6
+105391	tt16103604	Rabid	Rabid	2021	104	Horror	3.5	89		14
+147496	tt5254612	Underfire: The Untold Story of Pfc. Tony Vaccaro	Underfire: The Untold Story of Pfc. Tony Vaccaro	2016	79	Biography	10	307		4
+157149	tt6985200	Keys to the Heart	Geugeotmani nae sesang	2018	120	Family	5.7	1394		9
+124526	tt2428368	Beyond All Boundaries	Beyond All Boundaries	2013	97	Biography	5.7	175		4
+106286	tt16421224	Bestseller	Bestseller	2022	93.81829254	Thriller	5	26		24
+165922	tt9075038	Fear and Loathing in Aspen	Fear and Loathing in Aspen	2021	85	Drama	3.2	450		8
+11535	tt0036536	Wild Horse Rustlers	Wild Horse Rustlers	1943	58	Western	4.3	17		26
+109185	tt1754437	Robert Jay Lifton: Nazi Doctors	Wenn Ärzte töten - Über Wahn und Ethik in der Medizin	2009	86	Documentary	7.6	5		7
+36150	tt0095336	Picture of a Nymph	Hua zhong xian	1987	97	Comedy	10	175		5
+53301	tt0192377	The Knife	Noz	1999	135	Drama	10	3608		8
+57947	tt0243937	Grand Theater: A Tale of Beirut	Grand Theater: A Tale of Beirut	1999	93.81829254	Drama	10	13		8
+138757	tt3849586	Moses Without Rod	Asasiz Musa	2014	80	Biography	6.9	197		4
+87554	tt1186362	Eugene	Eugene	2009	93.81829254	Drama	2.5	110		8
+105778	tt1624408	Trigger	Trigger	2010	83	Drama	4.7	532		8
+135357	tt3453052	10 Days in a Madhouse	10 Days in a Madhouse	2015	111	History	10	2831		13
+80733	tt10447328	Tales of the Wild Hunt: Hellboy Reborn	Tales of the Wild Hunt: Hellboy Reborn	2019	71	Documentary	3.3	26		7
+157421	tt7054636	A Madea Family Funeral	A Madea Family Funeral	2019	109	Comedy	5.2	4909		5
+160520	tt7701650	In the Land of Pomegranates	In the Land of Pomegranates	2018	120	Documentary	10	17		7
+73220	tt0479689	The Windmill Palm Grove	Jongryeonamu sup	2005	108	Romance	5.2	93		20
+48864	tt0151395	The Love Cult	The Love Cult	1966	65	Drama	6.4	112		8
+85545	tt11416746	Time	Time	2020	81	Biography	3.7	6228		4
+125422	tt2506018	Goodbye Gauley Mountain: An Ecosexual Love Story	Goodbye Gauley Mountain: An Ecosexual Love Story	2014	70	Romance	8.6	11		20
+101851	tt15139698	Here Love Lies	Here Love Lies	2023	131	Romance	4.9	139		20
+16268	tt0045887	House of Blackmail	House of Blackmail	1953	72	Mystery	10	244		17
+126164	tt2572632	Vendetta	Vendetta	2013	106	Action	6.9	4334		0
+117866	tt21374850	All the Beauty and the Bloodshed	All the Beauty and the Bloodshed	2022	122	Documentary	10	7211		7
+27270	tt0070748	Summer Wishes, Winter Dreams	Summer Wishes, Winter Dreams	1973	93	Drama	4.1	845		8
+133119	tt3194678	Queens & Cowboys: A Straight Year on the Gay Rodeo	Queens & Cowboys: A Straight Year on the Gay Rodeo	2014	92	Documentary	6.9	247		7
+103842	tt15563084	Robbo: The Bryan Robson Story	Robbo: The Bryan Robson Story	2021	103	Documentary	2.6	320		7
+137384	tt3687270	The Caged Swallow	Jaskólka	2014	73	Drama	10	41		8
+44084	tt0118661	The Avengers	The Avengers	1998	89	Sci-Fi	1	45197		21
+83330	tt10968368	25 Sets	25 Sets	2019	58	Documentary	10	30		7
+64421	tt0330702	Don't Move	Non ti muovere	2004	125	Romance	2.9	8439		20
+155085	tt6536704	Plan B	Khota Badelah	2015	100	Action	3.3	136		0
+153875	tt6302146	Friendship Pact	Peyman-e doosti	1961	93.81829254	Drama	4.4	9		8
+150121	tt5723282	Endless	Endless	2020	95	Fantasy	7.2	1452		10
+75370	tt0810384	Konstruktor krasnogo tsveta	Konstruktor krasnogo tsveta	1993	76	Documentary	4.7	211		7
+75360	tt0810001	Glastonbury Fayre	Glastonbury Fayre	2018	87	Documentary	4.1	257		7
+7319	tt0028506	Wild Brian Kent	Wild Brian Kent	1936	57	Western	8.5	48		26
+99491	tt1456660	No Man's Land	Wu ren qu	2013	118	Adventure	10	2657		2
+35435	tt0093493	Mannequin	Mannequin	1987	90	Fantasy	9.2	34977		10
+102955	tt15380718	Sunny	Sunny	2022	143	Drama	5.1	71		8
+47279	tt0136222	For a Lousy Drachma	Gia mia trypia drahmi	1968	86	Comedy	9.2	21		5
+140773	tt4166648	Talking to God	Talking to God	2020	74	Comedy	4.7	137		5
+165757	tt9038290	Latte & the Magic Waterstone	Latte Igel und der magische Wasserstein	2019	81	Animation	9.8	1131		3
+148135	tt5354986	Depth Two	Dubina dva	2016	80	Documentary	7.1	187		7
+23994	tt0063331	My Third Wife, George	My Third Wife, George	1968	68	Comedy	5.9	72		5
+139575	tt3981396	The Forsaken Pages	The Forsaken Pages	2015	90	Horror	10	21		14
+89990	tt12453122	In League with Gaddafi	In League with Gaddafi	2019	93.81829254	Drama	10	6		8
+54009	tt0199290	3 Strikes	3 Strikes	2000	82	Comedy	7.3	3654		5
+113767	tt1967697	White Frog	White Frog	2012	93	Mystery	10	2137		17
+13975	tt0041136	Farewell Mister Grock	Au revoir M. Grock	1950	107	Drama	5.2	47		8
+25945	tt0067708	Santo and Blue Demon vs. Dracula and the Wolf Man	Santo y Blue Demon vs Dracula y el Hombre Lobo	1973	90	Horror	2.1	442		14
+16454	tt0046263	The Pagans	Il sacco di Roma	1953	87	Drama	3.7	40		8
+27617	tt0071619	Shaolin Martial Arts	Hong quan yu yong chun	1974	106	Action	6	427		0
+83991	tt11106572	Speechless	Speechless	2019	93.81829254	Comedy	7.8	8		5
+147433	tt5244812	Riding Faith	Riding Faith	2020	81	Family	5.9	257		9
+65008	tt0341495	Naked Weapon	Chik loh dak gung	2002	92	Action	10	7992		0
+40001	tt0106293	Anthony's Desire	Anthony's Desire	1993	90	Drama	1	109		8
+27395	tt0071138	Cold Blood	Das Amulett des Todes	1975	80	Thriller	2.1	287		24
+127374	tt26691376	Martyr or Murderer	Martyr or Murderer	2023	106	Drama	2.4	387		8
+168216	tt9776480	Magic City Hustle	Magic City Hustle	2019	116	Documentary	5.3	11		7
+13844	tt0040823	Sorry, Wrong Number	Sorry, Wrong Number	1948	89	Mystery	3.8	12364		17
+133946	tt3281640	Valhalla	Valhalla	2013	64	Sport	9.3	232		22
+126327	tt2586118	The Ardennes	D'Ardennen	2015	96	Thriller	9.9	5555		24
+84655	tt1124036	Finding Red Cloud	Finding Red Cloud	2008	90	Drama	6.7	10		8
+107884	tt1706317	Tezz	Tezz	2012	121	Crime	1	2584		6
+163670	tt8488518	Bad Therapy	Bad Therapy	2020	97	Comedy	5.4	1040		5
+51069	tt0171326	Forbidden Sins	Forbidden Sins	1999	93	Thriller	3.9	568		24
+144706	tt4820296	Nocturna	Nocturna	2015	92	Thriller	6.9	438		24
+37785	tt0099709	Queen's Bench III	Gu huo da lu shi	1990	93	Crime	1.5	49		6
+75949	tt0830629	Shok and Sher	Shok i Sher	1972	68	Drama	1.6	10		8
+28169	tt0073039	The Gentleman Tramp	The Gentleman Tramp	1975	78	Biography	5.1	156		4
+102181	tt1521090	A Quiet Life	Una vita tranquilla	2010	105	Drama	7	2653		8
+43151	tt0115928	My Sex Life... or How I Got Into an Argument	Comment je me suis disputé... (ma vie sexuelle)	1996	178	Drama	7.4	1677		8
+162067	tt8082672	Soul Man	Soul Man	2019	104	Thriller	5	22		24
+62582	tt0303394	Sister Helen	Sister Helen	2002	90	Documentary	4.9	277		7
+95050	tt13475542	Tis the Season	Tis the Season	2020	71	Musical	10	23		16
+39232	tt0103956	Child's Play 3	Child's Play 3	1991	90	Horror	4.1	45558		14
+150521	tt5791094	Tori Girl!	Tori gâru!	2017	98	Comedy	6.6	223		5
+154843	tt6484774	The Worst Nightmare	The Worst Nightmare	2017	85	Drama	8.9	10		8
+88249	tt12022472	Lost in Berlin	Lost in Berlin	2020	103	Documentary	10	33		7
+103317	tt15444704	Love Gets a Room	Love Gets a Room	2021	103	Romance	4.1	1333		20
+104782	tt15850662	The Whole Truth	The Whole Truth	2021	125	Drama	1	4239		8
+157095	tt6977240	Starship Troopers: Traitor of Mars	Starship Troopers: Traitor of Mars	2017	88	Sci-Fi	3.1	6302		21
+54057	tt0199724	Love Will Tear Us Apart	Tin seung yan gaan	1999	109	Drama	1.5	220		8
+150489	tt5786040	Dernières nouvelles du cosmos	Dernières nouvelles du cosmos	2016	89	Documentary	4.5	73		7
+123602	tt2386302	Happy Loser	Schastlivyy neudachnik	1993	88	Comedy	2	26		5
+97037	tt13977508	Hollywood in the Atomic Age - Monsters! Martians! Mad Scientists!	Hollywood in the Atomic Age - Monsters! Martians! Mad Scientists!	2021	120	Sci-Fi	2.8	36		21
+102796	tt1534338	The Gambler Who Wouldn't Die	Ti ho cercata in tutti i necrologi	2013	90	Crime	5.1	99		6
+104347	tt15721072	Anonymous Sister	Anonymous Sister	2021	94	Documentary	5.5	18		7
+151322	tt5916874	A Rising Fury	A Rising Fury	2022	82	Documentary	10	16		7
+52392	tt0184229	Stark Mad Astronauts	Astronaftes	1962	79	Comedy	6.6	79		5
+88051	tt1196651	Last Looks	Last Looks	2008	93.81829254	Horror	7	14		14
+47665	tt0139134	Cruel Intentions	Cruel Intentions	1999	97	Drama	4.3	202315		8
+14921	tt0043061	Trail of Robin Hood	Trail of Robin Hood	1950	67	Music	3.6	297		15
+66547	tt0368095	The Observation Room	The Greenan Tapes	2005	93.81829254	Drama	1.3	6		8
+26460	tt0068863	Lisa and the Devil	Lisa e il diavolo	1973	95	Mystery	10	5209		17
+63377	tt0314932	Carnivorous Animal	Yukshik dongmul	1985	105	Drama	3.3	42		8
+17768	tt0049319	Hold Back the Night	Hold Back the Night	1956	80	War	9.8	175		25
+149339	tt5599016	Who Sleeps My Bro	Shui zhai wo shang pu de xiong di	2016	96	Drama	1	79		8
+105862	tt1628038	Eden Burning	Eden Burning	2010	76	Horror	1	24		14
+128966	tt2782332	Lion Ark	Lion Ark	2013	91	Action	8.4	35		0
+91536	tt1283908	Goregasm	Goregasm	2007	85	Horror	5.4	141		14
+55893	tt0216844	High School Girl	Joseito	1979	74	Drama	9.6	10		8
+167945	tt9685810	The Covington Kids True Story	The Covington Kids True Story	2019	82	Documentary	4.6	70		7
+122827	tt2357820	Looking Back on Love: Making Black and White America	Looking Back on Love: Making Black and White America	2013	76	Documentary	5.7	39		7
+152527	tt6098500	The Manhattan Front	The Manhattan Front	2018	85	War	1.7	6		25
+103361	tt1545304	Desperados	Desperados	2020	105	Comedy	8.6	11068		5
+163915	tt8556014	The Brasch Family	Familie Brasch	2018	90	Documentary	8.3	58		7
+89097	tt1225738	Friends & Lovers: The Ski Trip 2	Friends & Lovers: The Ski Trip 2	2008	90	Romance	7.6	25		20
+120867	tt2262157	Sunday	Sunday	2014	71	Romance	5.3	215		20
+87273	tt1180577	A Hero in Heaven	A Hero in Heaven	2007	49	Documentary	2.5	25		7
+5143	tt0024222	The Kiss Before the Mirror	The Kiss Before the Mirror	1933	69	Mystery	1.6	679		17
+20814	tt0056167	The Last Winter	Den sidste vinter	1960	91	War	4.8	83		25
+43930	tt0117999	Two Deaths	Two Deaths	1995	102	Drama	5.3	517		8
+29434	tt0076517	Padre Padrone	Padre padrone	1977	113	Drama	6.4	4295		8
+62559	tt0303282	The Execution of Wanda Jean	The Execution of Wanda Jean	2002	88	Documentary	2.7	253		7
+19548	tt0053358	The Fabulous Fraud	Un trono para Cristy	1960	84	Drama	1	29		8
+49258	tt0156741	Apartment 12	Life/Drawing	2000	89	Romance	6.1	678		20
+92435	tt13046056	The Fright Before Christmas 2	The Fright Before Christmas 2	2023	93.81829254	Horror	9.4	10		14
+121208	tt2278120	No Joke	No Joke	2013	109	Comedy	10	42		5
+26915	tt0069959	The Delinquent	Fen nu qing nian	1973	101	Drama	7.4	198		8
+15200	tt0043666	I Was an American Spy	I Was an American Spy	1951	85	Drama	5.2	278		8
+42573	tt0113923	The Naked Eye	The Naked Eye	1995	93.81829254	Thriller	2.7	23		24
+51251	tt0173742	Confessions of a Vice Baron	Confessions of a Vice Baron	1943	59	Crime	6.6	83		6
+142207	tt4400360	My Hindu Friend	Meu Amigo Hindu	2015	124	Drama	8.8	584		8
+145440	tt4938112	Grace's Room	Grace's Room	2016	96	Fantasy	9.6	82		10
+114887	tt20191820	Colorado Christmas	Colorado Christmas	2023	94	Romance	8.5	109		20
+37039	tt0097687	Kronvittnet	Kronvittnet	1989	107	Crime	1.8	250		6
+61734	tt0292346	The Waking	The Waking	2001	97	Horror	1	219		14
+26389	tt0068698	Hickey & Boggs	Hickey & Boggs	1972	111	Thriller	9.7	1354		24
+157244	tt7011224	Caged Men: Tales from Chicago's SRO Hotels	Caged Men: Tales from Chicago's SRO Hotels	2017	84	Documentary	10	15		7
+154259	tt6384920	Under the Stadium Lights	Under the Stadium Lights	2021	109	Action	6.9	467		0
+11647	tt0036767	Don't Take It to Heart!	Don't Take It to Heart!	1944	90	Comedy	3.5	208		5
+149716	tt5659816	A Midsummer Night's Dream	A Midsummer Night's Dream	2017	105	Comedy	10	252		5
+117987	tt2140571	The Broken Hearts Gallery	The Broken Hearts Gallery	2020	109	Comedy	4.3	9980		5
+53305	tt0192442	Potato	Gamja	1968	118	Drama	10	10		8
+238	tt0005353	Four Feathers	Four Feathers	1915	50	Drama	4.7	44		8
+21159	tt0056907	The Cardinal	The Cardinal	1963	175	History	3.5	2843		13
+163464	tt8430326	Kinematics Theory	Yun dong xue gai lun	2018	75	Romance	10	35		20
+33255	tt0087359	Grandview, U.S.A.	Grandview, U.S.A.	1984	97	Drama	1.9	2234		8
+98	tt0003740	Cabiria	Cabiria	1914	148	Adventure	6.7	3879		2
+140715	tt4161376	3:15 AM	3:15 AM	2018	95	Horror	2.9	738		14
+95874	tt13678710	Transfer	Metafora	2020	115	Documentary	8.1	9		7
+39789	tt0105447	The Sounds of Silence	The Sounds of Silence	1992	90	Drama	7.8	43		8
+7728	tt0029245	The Mill on the Floss	The Mill on the Floss	1936	95	Drama	3.8	122		8
+34461	tt0090928	Honey Britches	Honey Britches	1971	85	Comedy	2.1	670		5
+92671	tt1308936	Children of the Amazon	Children of the Amazon	2008	72	Documentary	3.2	27		7
+54129	tt0200096	If You Want to Live... Shoot!	Se vuoi vivere... spara!	1968	97	Western	9.8	130		26
+91923	tt12926794	Shelter in Place	Shelter in Place	2021	89	Thriller	7	696		24
+50482	tt0166171	My Darling Domestic	Il domestico	1974	94	Comedy	3.5	135		5
+130904	tt2951834	Worst Friends	Worst Friends	2014	75	Drama	8.4	251		8
+91512	tt1283540	The Brotherhood V: Alumni	The Brotherhood V: Alumni	2009	86	Thriller	6.3	323		24
+151811	tt5992200	Víctor Erice - Abbas Kiarostami: Correspondence	Víctor Erice: Abbas Kiarostami: Correspondencias	2007	96	Documentary	9.5	65		7
+90675	tt12642316	Open Field	Open Field	2020	80	Documentary	10	6		7
+79498	tt10214542	Silent Beauty	Silent Beauty	2022	87	Documentary	8.5	28		7
+62445	tt0301429	Volcano High	Hwasango	2001	120	Fantasy	2	3571		10
+71128	tt0446718	Instant Dads	Instant Dads	2005	70	Drama	7.9	66		8
+91499	tt12831788	The Belly of the Sea	El ventre del mar	2021	75	Drama	1.6	275		8
+39830	tt0105573	There Goes the Neighborhood	There Goes the Neighborhood	1992	88	Crime	4.8	1229		6
+12974	tt0039185	The Big Fix	The Big Fix	1947	63	Film-Noir	7.3	39		11
+21770	tt0058227	FBI Operation Yellow Viper	Im Nest der gelben Viper - Das FBI schlägt zu	1966	93	Drama	2.6	27		8
+55925	tt0217143	Watch	Watch	2002	93.81829254	Drama	1.9	25		8
+13228	tt0039645	My Favorite Brunette	My Favorite Brunette	1947	87	Crime	9.4	3789		6
+146598	tt5120072	Guffpunch	Guffpunch	2017	94	Comedy	4.5	16		5
+53921	tt0198542	Forbidden Love	L'homme du Niger	1940	102	Drama	5.2	26		8
+149636	tt5648036	S.M.A.R.T. Chase	Ji zhi zhui ji	2017	95	Thriller	1	4702		24
+65643	tt0354077	Swirl	Swirl	2003	85	Romance	4.6	50		20
+11986	tt0037380	Time Flies	Time Flies	1944	88	Comedy	6	160		5
+55913	tt0217019	Sade	Sade	2000	100	History	8.9	1821		13
+104331	tt15715230	Project Space 13	Project Space 13	2021	66	Comedy	3.6	45		5
+59899	tt0271395	Beyond Vanilla	Beyond Vanilla	2001	92	Documentary	1.5	160		7
+143808	tt4666220	Dedalus	Dedalus	2018	92	Drama	4.3	122		8
+92438	tt13047412	Spring Sparrow	Chun tian de ma que	2019	92	Drama	8.9	8		8
+139040	tt3894478	Heavenly Nomadic	Sutak	2015	81	Drama	8.4	124		8
+24190	tt0063736	A Film Like Any Other	Un film comme les autres	1968	120	Drama	3.5	355		8
+154611	tt6447370	Khun Tong Daeng: The Inspirations	Khun Thong Dang The Inspirations	2015	101	Animation	10	11		3
+160622	tt7724494	Sand and Fire	De sable et de feu	2019	116	Biography	4.1	47		4
+135585	tt3474720	Mees Kees op de planken	Mees Kees op de planken	2014	73	Comedy	2.4	390		5
+13493	tt0040160	The Big Clock	The Big Clock	1948	95	Crime	9.2	9394		6
+166157	tt9129296	Raise Hell: The Life & Times of Molly Ivins	Raise Hell: The Life & Times of Molly Ivins	2019	93	Documentary	8.2	601		7
+168235	tt9779380	Broken Halos	Broken Halos	2020	91	Thriller	5.7	73		24
+19418	tt0053102	The Ship of Monsters	La nave de los monstruos	1960	81	Comedy	9.6	448		5
+154728	tt6461980	Patricia, Return of the Dream	Patricia: el regreso del sueño	2017	108	Comedy	2.7	14		5
+68355	tt0397535	Memoirs of a Geisha	Memoirs of a Geisha	2005	145	Drama	3.8	158592		8
+112701	tt1909807	My Pure Joy	My Pure Joy	2011	100	Comedy	4.6	733		5
+163497	tt8437364	From Insecurity to Uncertainty	Iz nesigurnosti u neizvjesnost	2018	95	Documentary	5.7	7		7
+131241	tt2981768	Patema Inverted	Sakasama no Patema	2013	98	Drama	9.8	10062		8
+62762	tt0306108	Rooster	Sutalk	1990	109	Drama	1	19		8
+87708	tt1189397	Used	Used	2007	84	Drama	6	7		8
+165547	tt8993410	K.D. Lang Live from the Majestic Theatre	K.D. Lang Live from the Majestic Theatre	2018	106	Music	8.1	8		15
+106741	tt1661820	Cut Bank	Cut Bank	2014	93	Drama	7.7	13606		8
+73917	tt0492492	Sleeping Dogs Lie	Stay	2006	87	Drama	1.9	3446		8
+130812	tt2945504	The Detectives	Detektiverne	2013	88	Family	7.8	79		9
+112717	tt19112110	LiSA Another Great Day	LiSA Another Great Day	2022	97	Documentary	10	90		7
+139798	tt4043122	Scottish Myths and Legends	Scottish Myths and Legends	2007	56	Documentary	6.2	10		7
+103493	tt15479902	Trust No One: The Hunt for the Crypto King	Trust No One: The Hunt for the Crypto King	2022	90	Crime	8.6	5913		6
+114838	tt2016303	The Bricklayer	The Bricklayer	2023	110	Thriller	5.4	1586		24
+136713	tt3598850	The Zeroes	The Zeroes	2014	72	Family	10	50		9
+118315	tt2160407	The Touchstone	The Touchstone	2017	85	Fantasy	7.9	164		10
+125797	tt2539720	Herb & Dorothy 50X50	Herb & Dorothy 50X50	2013	87	Biography	10	61		4
+103933	tt1559344	I Love You Goodbye	I Love You Goodbye	2009	102	Drama	5	69		8
+62495	tt0302361	Bookies	Bookies	2003	88	Drama	6.2	2288		8
+124049	tt2402619	Hit by Lightning	Hit by Lightning	2014	89	Romance	9.8	1672		20
+21540	tt0057682	Who's Been Sleeping in My Bed?	Who's Been Sleeping in My Bed?	1963	103	Comedy	9.1	608		5
+82615	tt10833860	Daaka	Daaka	2019	136	Action	9.7	256		0
+168048	tt9721798	Family of Strangers	Closed Ward	2019	117	Drama	4.5	271		8
+111431	tt1844203	Inescapable	Inescapable	2012	93	Drama	6.2	2788		8
+85528	tt11410028	Happy Birthday	Tavallodet mobarak	1973	117	Comedy	6.7	22		5
+163255	tt8383028	Romans 8:37	Lomaseo 8:37	2017	133	Drama	7.7	99		8
+15932	tt0045122	Savage Triangle	Le garçon sauvage	1951	112	Crime	4.4	123		6
+31048	tt0080899	Heat of Desire	Plein sud	1981	86	Drama	1	226		8
+14511	tt0042281	The Breaking Point	The Breaking Point	1950	97	Crime	2.9	4140		6
+119495	tt2201261	The Sky Is Everywhere	The Sky Is Everywhere	2022	103	Drama	4.2	1770		8
+64585	tt0333645	The Deserted Station	Istgah-Matrouk	2002	88	Drama	9.6	651		8
+5783	tt0025562	Night Alarm	Night Alarm	1934	64	Romance	1.5	112		20
+23940	tt0063202	Las Vegas Free-for-All	Kureji ogon sakusen	1967	157	Comedy	6.5	17		5
+165877	tt9064624	Departure with the Dead	Departure with the Dead	2018	55	Fantasy	10	60		10
+109398	tt1762399	Walking with Dinosaurs 3D	Walking with Dinosaurs 3D	2013	87	Comedy	1.9	11800		5
+69122	tt0412677	Easter in Bunnyland	Easter in Bunnyland	2000	50	Animation	4	34		3
+19703	tt0053750	The Dark at the Top of the Stairs	The Dark at the Top of the Stairs	1960	124	Drama	2.2	819		8
+32825	tt0086129	Porky's II: The Next Day	Porky's II: The Next Day	1983	98	Comedy	1.1	12655		5
+133162	tt3200412	Manos: The Rise of Torgo	Manos: The Rise of Torgo	2018	90	Horror	5	105		14
+134916	tt3399862	My Summer as a Goth	My Summer as a Goth	2018	100	Drama	6.8	122		8
+93157	tt13189304	Sathiya Sodhanai	Sathiya Sodhanai	2023	109	Comedy	2.7	152		5
+56466	tt0223143	The Dirty Sanchez	The Dirty Sanchez	1999	91	Comedy	3.8	97		5
+161109	tt7853142	The Project	Cold Comfort	2020	94	Thriller	2.4	68		24
+162337	tt8146414	Drishtikon	Drishtikone	2018	139	Drama	2.5	547		8
+23574	tt0062395	The Trip	The Trip	1967	82	Drama	7.2	5331		8
+120628	tt22505994	Crack	Crack	2023	93.81829254	Action	6.8	9		0
+157553	tt7087576	Cancer Can Be Killed	Cancer Can Be Killed	2017	95	Documentary	6.8	39		7
+141130	tt4216908	Courted	L'hermine	2015	98	Comedy	9.2	2383		5
+24881	tt0065252	¡Viva América!	¡Viva América!	1969	105	Crime	3.5	58		6
+75382	tt0810767	Becoming Family	Becoming Family	2006	74	Documentary	10	24		7
+138719	tt3844962	Dead Body	Dead Body	2017	85	Horror	5.3	1108		14
+157591	tt7094436	After	After	2017	75	Drama	5.8	18		8
+94534	tt1339641	The Coca-Cola Case	The Coca-Cola Case	2009	86	Documentary	2.3	240		7
+99069	tt1446072	Game of Death	Game of Death	2011	98	Adventure	1	7022		2
+14253	tt0041692	Human Patterns	Ningen moyô	1949	89	Drama	5.7	14		8
+137642	tt3717490	Power Rangers	Power Rangers	2017	124	Adventure	10	113009		2
+130208	tt2880596	Bounce: How the Ball Taught the World to Play	Bounce: How the Ball Taught the World to Play	2015	76	History	8.3	37		13
+43218	tt0116098	Diamonds in the Rough	Diamonds in the Rough	1996	100	Comedy	2.5	34		5
+11821	tt0037084	The Monster Maker	The Monster Maker	1944	62	Sci-Fi	5.3	1230		21
+25807	tt0067431	Millhouse	Millhouse	1971	92	Documentary	8.6	197		7
+150297	tt5756188	A Mãe é que Sabe	A Mãe é que Sabe	2016	88	Sci-Fi	10	530		21
+167191	tt9435970	Fries! The Movie	Fries! The Movie	2021	83	Documentary	9.9	68		7
+119055	tt2187153	Thuppakki	Thuppakki	2012	165	Action	5.6	37469		0
+52220	tt0182765	Battal Gazi Destani	Battal Gazi Destani	1971	97	History	9.6	1802		13
+163021	tt8327630	They Live Inside Us	They Live Inside Us	2020	103	Horror	6.6	1306		14
+142183	tt4396080	Round Trip Heart	Romansu	2015	97	Romance	3.9	84		20
+79086	tt10137106	Brothers in Arms	Brothers in Arms	2019	60	Documentary	9.4	11		7
+31529	tt0082362	The Fan	The Fan	1981	95	Thriller	2.7	2810		24
+51007	tt0170647	Daredevils	Szalency	1928	135	War	2.8	41		25
+33436	tt0087864	Over the Brooklyn Bridge	Over the Brooklyn Bridge	1984	108	Romance	6.2	1638		20
+46552	tt0129947	The Funniest Man in the World	The Funniest Man in the World	1967	95	Comedy	2.7	71		5
+50324	tt0165348	Karate Bullfighter	Kenka karate kyokushinken	1975	85	Drama	6	430		8
+89148	tt12267100	Public Trust	Public Trust	2020	96	Documentary	7.2	100		7
+73185	tt0479162	Special	Special	2006	81	Sci-Fi	8.8	5894		21
+167097	tt9404442	Nina Wu	Juo ren mi mi	2019	102	Drama	3.4	1303		8
+152164	tt6050668	The Best People	The Best People	2017	83	Comedy	1	177		5
+1363	tt0012881	The Adventures of Robinson Crusoe	The Adventures of Robinson Crusoe	1922	360	Adventure	1.6	31		2
+108545	tt1730695	Blades of Blood	Goo-reu-meul beo-eo-nan dal-cheo-reom	2010	111	Action	8.7	859		0
+87291	tt11810612	Our Limits	Ta oria mas	2020	78	Documentary	5.8	12		7
+47576	tt0138563	Kurt & Courtney	Kurt & Courtney	1998	95	Documentary	2.3	7321		7
+120809	tt2259890	Face	Face	1966	70	Drama	8.8	19		8
+110155	tt1795674	The Great Intervention	The Great Intervention	2010	90	Biography	9.9	20		4
+16495	tt0046333	So Big	So Big	1953	101	Western	10	806		26
+80784	tt1045673	Wasteland	Wasteland	2011	80	Adventure	1	283		2
+163086	tt8344320	Spy in Love	Spy in Love	2016	95	Action	5.9	13		0
+88406	tt1206306	Hudson Taylor	Hudson Taylor	1981	85	Drama	4.5	52		8
+143298	tt4578084	Reversion	Reversion	2015	84	Sci-Fi	7.7	212		21
+153267	tt6207962	Duet	Duet	2016	103	Drama	4.3	230		8
+11238	tt0035945	Give Us the Moon	Give Us the Moon	1944	95	Romance	4.6	229		20
+78352	tt0991346	Bhoothnath	Bhoothnath	2008	150	Family	8.6	11013		9
+57811	tt0242339	Burning Heart	Burning Heart	2000	93.81829254	Drama	10	10		8
+49308	tt0157134	One Evening After the War	Un soir après la guerre	1998	108	Drama	10	144		8
+15459	tt0044129	The Thundering Trail	The Thundering Trail	1951	55	Drama	5.5	38		8
+134299	tt3320500	The Axe Murders of Villisca	The Axe Murders of Villisca	2016	78	Horror	1	1990		14
+24683	tt0064839	Crime and Punishment	Prestuplenie i nakazanie	1970	221	Drama	3.8	1336		8
+41442	tt0110405	Paperback Romance	Lucky Break	1994	94	Comedy	3.3	406		5
+70708	tt0439130	The Beauty Academy of Kabul	The Beauty Academy of Kabul	2004	74	Documentary	8.4	174		7
+114742	tt2011271	The Secret Disco Revolution	The Secret Disco Revolution	2012	90	History	7	287		13
+65706	tt0355650	Killer Drag Queens on Dope	Killer Drag Queens on Dope	2003	83	Action	5.7	199		0
+97670	tt1412338	Stuck!	Stuck!	2009	95	Drama	2.3	239		8
+67789	tt0387057	Beat the Drum	Beat the Drum	2003	114	Drama	2.5	709		8
+127157	tt26545924	Who Do You Say I Am?	Who Do You Say I Am?	2023	53	Documentary	9.9	7		7
+54126	tt0200071	Rosetta	Rosetta	1999	95	Drama	10	15377		8
+137294	tt3678180	Theo's House	Theon talo	2014	108	Romance	5.3	31		20
+14460	tt0042200	Annie Get Your Gun	Annie Get Your Gun	1950	107	Comedy	2.4	5194		5
+19108	tt0052372	Lost Souls	Vite perdute	1959	84	Drama	7.6	17		8
+9925	tt0033392	Billy the Kid in Santa Fe	Billy the Kid in Santa Fe	1941	61	Western	1.1	82		26
+150730	tt5820770	Thrasher Road	Thrasher Road	2018	86	Comedy	9.4	73		5
+41719	tt0111181	Sicario	Sicario	1994	107	Drama	2.8	453		8
+162623	tt8221738	Mi vida	Mi vida	2019	88	Comedy	7.6	530		5
+136185	tt3539614	The Polar Bear Club	The Polar Bear Club	2014	82	Drama	7.5	16		8
+95928	tt1369602	Vagrant	Vagrant	2008	85	Horror	5.4	21		14
+113984	tt1977915	Spanish Lake	Spanish Lake	2014	79	Documentary	3.5	218		7
+140780	tt4168286	The Liberation of Skopje	Osloboduvanje na Skopje	2016	110	Drama	10	395		8
+165072	tt8873842	To Every Nation: The Witness Trilogy	To Every Nation: The Witness Trilogy	2017	70	Animation	10	20		3
+19964	tt0054290	September Storm	September Storm	1960	99	Drama	1.5	231		8
+107896	tt1706591	The Devil's Bride	Certova nevesta	2011	90	Family	7.9	136		9
+160169	tt7625712	Pocketman and Cargoboy	Pocketman and Cargoboy	2018	87	Sci-Fi	1	150		21
+132254	tt3103322	By the River	Sai nam tid shoer	2013	71	Drama	2.7	19		8
+118736	tt2179097	Indigo	Indigo	2014	93	Thriller	9.3	44		24
+162395	tt8165954	When in Venice	When in Venice	2021	75	Romance	9.8	30		20
+13235	tt0039658	The Ghost of Rashmon Hall	Night Comes Too Soon	1948	52	Horror	1.9	212		14
+118875	tt2182197	The Smashing Pumpkins Live at the Metro, 1993	The Smashing Pumpkins Live at the Metro, 1993	2011	90	Documentary	4	15		7
+3140	tt0019823	Disraeli	Disraeli	1929	90	History	3.8	1358		13
+106452	tt1647985	After You	After You	2013	87	Comedy	5.7	10		5
+63034	tt0310064	Return Fire	Return Fire	1988	97	Drama	9.3	71		8
+168301	tt9799878	The Hunchback of Notre Dame	Glöckner von Notre Dame	1996	65	Animation	1	72		3
+85241	tt11359158	The Attachment Diaries	El apego	2021	102	Drama	9.1	59		8
+80002	tt10318842	Standing on the Line	Standing on the Line	2019	80	Documentary	2.4	18		7
+50330	tt0165372	A City Called Dragon	Long cheng shi ri	1970	97	Drama	6.7	43		8
+94232	tt1336617	Cyrus	Cyrus	2010	91	Comedy	10	36492		5
+105425	tt16117078	Days of Our Lives: A Very Salem Christmas	Days of Our Lives: A Very Salem Christmas	2021	78	Drama	8.1	152		8
+166354	tt9178814	The Gentleman Driver	The Gentleman Driver	2018	83	Documentary	10	420		7
+25565	tt0066893	Carnival of Blood	Carnival of Blood	1970	87	Horror	5.8	628		14
+79260	tt10168862	Leonardo 500	Leonardo Cinquecento	2019	90	Documentary	9.2	36		7
+113769	tt1969062	Infinitely Polar Bear	Infinitely Polar Bear	2014	90	Comedy	3.4	16905		5
+86700	tt11687126	A Paixão Segundo G.H.	A Paixão Segundo G.H.	2023	93.81829254	Drama	6.5	39		8
+158582	tt7296606	The Lake Vampire	The Lake Vampire	2018	102	Thriller	5.3	306		24
+76265	tt0846033	Kamasutra Nights	Maya	2008	87	Drama	9.5	238		8
+7878	tt0029544	Shadows of the Orient	Shadows of the Orient	1935	69	Crime	1	132		6
+162600	tt8215254	Ballad of a Righteous Merchant	Ballad of a Righteous Merchant	2018	62	Documentary	2.8	20		7
+65080	tt0342887	Pipe Dreams	Pipe Dreams	2003	115	Documentary	9.6	23		7
+116801	tt2104908	The World Is Funny	Haolam Mats'hik	2012	122	Comedy	3.4	230		5
+7209	tt0028305	Stage Struck	Stage Struck	1936	91	Romance	9.8	359		20
+72105	tt0462180	The Anna Cabrini Chronicles	The Anna Cabrini Chronicles	2005	128	Drama	10	19		8
+140632	tt4152212	Sick of it All	Sick of it All	2016	86	Mystery	1	68		17
+17149	tt0047924	The Case of the Red Monkey	Little Red Monkey	1955	71	Crime	5.8	183		6
+49584	tt0159603	The Delivery	The Delivery	1999	105	Comedy	4.1	745		5
+22806	tt0060559	Jimmy, the Boy Wonder	Jimmy, the Boy Wonder	1966	69	Musical	3.1	89		16
+23792	tt0062901	Don't Just Stand There	Don't Just Stand There	1968	99	Comedy	2.3	130		5
+89053	tt12244822	Amira	Amira	2021	98	Drama	4.3	8004		8
+82070	tt1071798	Frozen	Frozen	2007	110	Drama	4	220		8
+123423	tt2380293	Tinsel	Tinsel	2012	47	Horror	2.9	58		14
+25611	tt0066985	Desert of Fire	Deserto di fuoco	1971	85	Adventure	2	72		2
+151411	tt5929776	Before the Flood	Before the Flood	2016	96	Documentary	10	28696		7
+121686	tt2301412	The Horrible Obsessions	Mayaku baishun G-men: Kyôfu no niku jigoku	1972	88	Crime	1	37		6
+71392	tt0451101	Lost Children	Lost Children	2005	103	Documentary	3.3	137		7
+122996	tt2364616	I Do Bidoo Bidoo: Heto nApo sila!	I Do Bidoo Bidoo: Heto nApo sila!	2012	120	Musical	5.4	61		16
+22007	tt0058737	Mark of the Tortoise	Wartezimmer zum Jenseits	1964	90	Crime	6.1	275		6
+39413	tt0104471	I'll Love You Forever... Tonight	I'll Love You Forever... Tonight	1992	88	Drama	3.1	132		8
+157248	tt7012864	Lowlife	Lowlife	2017	96	Drama	8.4	2620		8
+5494	tt0024994	Like the Leaves	Come le foglie	1935	80	Comedy	6	15		5
+136606	tt3586864	Me and My Little Sister	Sparrooabbán	2016	69	Documentary	4.9	44		7
+21868	tt0058427	Olga's Girls	Olga's Girls	1964	70	Horror	8.4	335		14
+62522	tt0302693	Knowing Richard Black	Knowing Richard Black	2001	75	Drama	10	17		8
+84321	tt11168488	Things to Do Before You Die	Coses a fer abans de morir	2020	103	Drama	4.7	32		8
+145495	tt4943594	The Search for Freedom	The Search for Freedom	2015	92	Documentary	3.4	793		7
+151482	tt5937642	The Lightest Darkness	Samaya svetlaya tma	2017	83	Mystery	4.8	42		17
+80415	tt1038971	How to Be a Serial Killer	How to Be a Serial Killer	2008	91	Crime	10	2154		6
+87735	tt1190072	The Hunter	Shekarchi	2010	90	Drama	7.1	1586		8
+118690	tt21767274	Are You Ok Baby?	Are You Ok Baby?	2023	113	Drama	4.1	1282		8
+133885	tt3274690	Nathan's Kingdom	Nathan's Kingdom	2020	93	Sci-Fi	2.8	2768		21
+56688	tt0227066	A Pool Without Water	Mizu no nai pûru	1982	103	Crime	8.9	580		6
+128597	tt27610443	Saba Nayagan	Saba Nayagan	2023	155	Comedy	10	181		5
+58490	tt0251241	Max-Out	Max-Out	1970	45	Documentary	9	15		7
+111624	tt1852838	Lucky	Lucky	2011	98	Drama	4.9	12		8
+99342	tt14535612	Hey, Viktor!	Hey, Viktor!	2023	102	Comedy	3.2	36		5
+32981	tt0086497	Utu	Utu	1983	118	Drama	8.1	1288		8
+52898	tt0188564	Devil's Playground	Devil's Playground	1998	93.81829254	Drama	5.7	13		8
+76419	tt0855841	Invisible Children	Invisible Children	2006	55	Documentary	8.1	568		7
+144238	tt4729638	Psychopath	Dead End 3	2020	88	Horror	6.6	15		14
+126835	tt26345645	Endless Borders	Marzhaye bi payan	2023	111	Thriller	7.5	60		24
+87558	tt1186367	Ninja Assassin	Ninja Assassin	2009	99	Thriller	7.3	74895		24
+84242	tt11154884	Kings of L.A.	Kings of L.A.	2023	120	Comedy	9.5	43		5
+24956	tt0065506	Popsy Pop	Popsy Pop	1971	100	Crime	8.7	154		6
+148338	tt5425488	Further Beyond	Further Beyond	2016	89	History	3.6	153		13
+127487	tt26743872	ThiruvinKural	ThiruvinKural	2023	117	Thriller	4.7	320		24
+39391	tt0104420	Shiny Moss	Hikarigoke	1992	118	Drama	3.2	62		8
+18535	tt0051065	A Matter of Dignity	To teleftaio psemma	1958	112	Drama	10	684		8
+5101	tt0024139	Hoopla	Hoopla	1933	85	Drama	8	308		8
+143988	tt4690052	Through the Shadow	Através da Sombra	2015	106	Thriller	9.8	281		24
+104354	tt1572169	South Dakota	South Dakota	2017	127	Drama	8.9	107		8
+144389	tt4767990	Happy Yummy Chicken	Happy Yummy Chicken	2016	83	Comedy	5.9	48		5
+149562	tt5637858	A Pharisee	Barisaein	2014	76	Drama	2.2	29		8
+19200	tt0052644	Le Bossu	Le bossu	1959	105	Adventure	6.1	1470		2
+31742	tt0082910	Piranha II: The Spawning	Piranha Part Two: The Spawning	1982	94	Thriller	1.4	9763		24
+32957	tt0086445	Tin Man	Tin Man	1983	89	Drama	7.1	106		8
+94743	tt13424166	2020	2020	2020	94	Documentary	3	26		7
+151206	tt5897108	Project Ghazi	Project Ghazi	2017	100	Sci-Fi	4.4	1145		21
+2468	tt0017551	Whispering Wires	Whispering Wires	1926	60	Mystery	5.9	14		17
+165228	tt8908598	A Hero to the End	A Hero to the End	2014	93.81829254	Sci-Fi	10	17		21
+63020	tt0309925	Nooravathu Naal	Nooravathu Naal	1984	134	Thriller	10	705		24
+10236	tt0033947	New York Town	New York Town	1941	94	Comedy	5.8	87		5
+145935	tt5021642	Gilt	Gilt	2015	93	Drama	5.3	9		8
+63815	tt0321150	All the Love You Cannes!	All the Love You Cannes!	2002	108	Documentary	8.7	372		7
+10710	tt0034931	Just Off Broadway	Just Off Broadway	1942	65	Crime	8.7	291		6
+105946	tt1630061	Body of Water	Syvälle salattu	2011	105	Thriller	3.1	748		24
+125290	tt2492738	The Fall from Heaven	Cennetten Kovulmak	2013	88	Drama	5.6	416		8
+46414	tt0128959	Beethoven Concerto	Kontsert Bethovena	1937	67	Drama	3.9	18		8
+25659	tt0067093	Fiddler on the Roof	Fiddler on the Roof	1971	181	Family	6.5	46994		9
+3408	tt0020562	The Wagon Master	The Wagon Master	1929	70	Drama	3	14		8
+48836	tt0151131	Jewel of the Gods	Jewel of the Gods	1989	86	Adventure	4.5	59		2
+62317	tt0299681	City in Panic	City in Panic	1986	85	Thriller	7.5	252		24
+159180	tt7420292	We Were Kings	Könige der Welt	2017	94	Music	6.1	35		15
+65083	tt0342916	Quattro Noza	Streets of Legend	2003	96	Drama	1.1	342		8
+5851	tt0025718	The Richest Girl in the World	The Richest Girl in the World	1934	76	Romance	4.3	1003		20
+136358	tt3560270	The House I Live in: Bonus Material	The House I Live In: Bonus Material	2012	78	Documentary	6.3	8		7
+33395	tt0087763	My Brother's Wedding	My Brother's Wedding	1983	115	Drama	9.2	1057		8
+13006	tt0039228	Bulldog Drummond Strikes Back	Bulldog Drummond Strikes Back	1947	65	Adventure	2.8	108		2
+58695	tt0253827	The Martins	The Martins	2001	87	Comedy	2.3	1292		5
+13066	tt0039337	Down to Earth	Down to Earth	1947	101	Musical	1.5	1584		16
+91605	tt1285015	Turn Left at Pennsylvania Avenue	Turn Left at Pennsylvania Avenue	2008	52	Comedy	4.7	9		5
+131500	tt3012834	Velvet Terrorists	Zamatoví teroristi	2013	87	Documentary	8.7	90		7
+167507	tt9570674	The Prizefighter	The Prizefighter	2019	90	Sport	4.1	13		22
+27434	tt0071221	Black Belt Jones	Black Belt Jones	1974	85	Action	6.1	2552		0
+119265	tt2193698	Russia's Toughest Prisons	Russia's Toughest Prisons	2011	60	Documentary	8.1	480		7
+95940	tt1369696	Skyler	Skyler	2012	83	Romance	9.1	50		20
+162848	tt8286194	Mete Miedo	Mete Miedo	2022	85	Horror	1.6	596		14
+125199	tt2483208	Way of the Wicked	Way of the Wicked	2014	92	Thriller	1	1504		24
+164746	tt8779020	A First Farewell	Di yi ci de li bie	2018	86	Drama	3.7	237		8
+141099	tt4211312	The White King	The White King	2016	89	Drama	3.5	4769		8
+60129	tt0274877	Special Silencers	Serbuan Halilintar	1982	86	Action	7.3	104		0
+148629	tt5472786	A Voyage to Arcturus	A Voyage to Arcturus	1970	71	Fantasy	9	15		10
+38366	tt0101467	Black Demons	Demoni 3	1991	88	Horror	1	980		14
+63783	tt0320483	Snake Island	Snake Island	2002	90	Comedy	1	900		5
+5692	tt0025388	Love and the First Railroad	Die Liebe und die erste Eisenbahn	1934	93.81829254	Drama	3.4	12		8
+160109	tt7610348	Beyond existence	Nos voyages invisibles	2020	95	Adventure	5.7	8		2
+70850	tt0441761	Free Zone	Free Zone	2005	90	Drama	5.4	2988		8
+146190	tt5067956	L'instant infini	L'instant infini	2017	90	Thriller	8.7	25		24
+16262	tt0045877	The Hitch-Hiker	The Hitch-Hiker	1953	71	Film-Noir	10	10325		11
+127263	tt2663478	Disclosed Minds	Disclosed Minds	2015	93.81829254	Thriller	8.4	15		24
+88787	tt12174952	The Haunting of M.R. James	The Haunting of M.R. James	2018	57	Horror	10	22		14
+98067	tt14219458	Farm to Fork to Love	Farm to Fork to Love	2021	87	Romance	9.2	481		20
+17173	tt0047970	Dance Little Lady	Dance Little Lady	1954	87	Drama	9.2	80		8
+123559	tt23851926	Hey Lover	Hey Lover	2022	48	Romance	5.5	8		20
+118845	tt21819258	Bonus Track	Bonus Track	2023	98	Comedy	3.8	48		5
+77066	tt0899179	Waiting to Inhale	Waiting to Inhale	2005	73	Documentary	4.5	49		7
+101621	tt15097216	Jai Bhim	Jai Bhim	2021	164	Crime	7.8	214538		6
+72417	tt0466841	Impact	Impact	2004	92	Documentary	6.3	674		7
+52048	tt0181310	Beautiful Mother	Belle maman	1999	102	Comedy	2.4	1023		5
+29789	tt0077522	Every Girl Should Have One	Every Girl Should Have One	1978	80	Comedy	8.3	52		5
+51608	tt0177615	The Desperate Men	Cat & Mouse	1958	79	Crime	4.3	147		6
+106332	tt16443948	Tomica Hero: Rescue Force Explosive Movie: Rescue the Mach Train!	Tomica Hero: Rescue Force the Movie: Rescue the Mach Train!	2008	93.81829254	Comedy	10	7		5
+54754	tt0204471	Matroni and Me	Matroni et moi	1999	101	Crime	3.5	337		6
+152824	tt6143798	Axcellerator	Axcellerator	2020	91	Sci-Fi	3.4	1845		21
+33475	tt0087983	Reckless	Reckless	1984	90	Romance	5.1	2328		20
+130006	tt28625660	Honey Sweet	Daljjakjigeunhae: 7510	2023	118	Comedy	4.8	122		5
+20401	tt0055269	Our Marriage	Watakushi-tachi no kekkon	1962	67	Drama	8	143		8
+28889	tt0075068	Pipe Dreams	Pipe Dreams	1976	89	Romance	5.6	144		20
+104005	tt15621500	12 Hours	Ji di zhui ji	2022	83	Action	2.9	61		0
+126769	tt2630880	Birthday Cake	Birthday Cake	2013	85	Family	4.1	185		9
+139000	tt3891218	Colliding Dreams	The Zionist Idea	2015	134	Documentary	10	119		7
+101257	tt15010580	Christmas with My Ex	Christmas with My Ex	2022	93.81829254	Drama	5.4	36		8
+151048	tt5871184	Mobile Suit Gundam: The Origin III - Dawn of Rebellion	Kidou senshi Gandamu: The Origin III - Akatsuki no houki	2016	68	Animation	10	577		3
+128046	tt2721712	Wounded	La herida	2013	95	Drama	7.9	1331		8
+108396	tt1726750	The Citizen Police 69	Shimin porisu 69	2011	102	Comedy	10	13		5
+139648	tt4023452	The Rose of Versailles	The Rose of Versailles	2008	93.81829254	Animation	5.7	13		3
+168464	tt9846030	The Little Refugee	Aylan, Son of the Ocean	2020	89	Drama	9.8	22		8
+55502	tt0211575	Point of No Return	Point of No Return	1976	83	Mystery	8.6	32		17
+126647	tt2622834	Rearview	Rearview	2013	83	Drama	10	92		8
+39198	tt0103880	Bride of Killer Nerd	Bride of Killer Nerd	1992	75	Horror	6	267		14
+126373	tt2593562	Gamer Age	Gamer Age	2014	92	History	6.4	73		13
+128615	tt27621015	Shastry Viruddh Shastry	Shastry Viruddh Shastry	2023	140	Drama	10	1659		8
+136808	tt3612476	My House	Ban khang winyan	2014	93.81829254	Horror	6.9	24		14
+151872	tt6002232	Custody	Jusqu'à la garde	2017	93	Thriller	4.2	10131		24
+37491	tt0098963	1871	1871	1990	100	History	5	72		13
+138810	tt3856300	The Lennon Report	The Lennon Report	2016	87	History	8.2	827		13
+32989	tt0086512	A Stone in the Mouth	Une pierre dans la bouche	1983	105	Comedy	8	88		5
+125420	tt2505856	Infliction	Infliction	2014	105	Horror	3.1	715		14
+52646	tt0186221	A House by the Sea	A House by the Sea	2000	93	Drama	9.8	18		8
+124421	tt2420124	Wendy	Wendy	2020	111	Drama	4.1	3703		8
+63578	tt0317950	Nola	Nola	2003	97	Comedy	2.8	495		5
+623	tt0008630	The Stolen Play	The Stolen Play	1917	93.81829254	Drama	3.8	20		8
+95927	tt13695988	Bipolar	Zhishi yici ouran de lüxing	2021	107	Drama	8.9	140		8
+89736	tt12397050	The Magnitude of All Things	The Magnitude of All Things	2020	86	Documentary	9.5	91		7
+29806	tt0077554	The Factory Outing	Firmaskovturen	1978	79	Comedy	6.4	222		5
+23987	tt0063311	Mission Mars	Mission Mars	1968	95	Sci-Fi	7.5	358		21
+161065	tt7839712	This World Is Not My Own	This World Is Not My Own	2023	97	Documentary	9.6	7		7
+48905	tt0151745	Next Time	Next Time	1998	97	Drama	6.1	63		8
+5873	tt0025772	She Had to Choose	She Had to Choose	1934	65	Drama	5.6	67		8
+89894	tt1243630	Fancypants	Fancypants	2011	87	Drama	5.5	96		8
+99469	tt1456060	Boy Wonder	Boy Wonder	2010	97	Crime	10	9463		6
+57028	tt0230753	To Matthieu	Selon Matthieu	2000	108	Drama	1.8	347		8
+5181	tt0024302	Man's Castle	Man's Castle	1933	75	Drama	10	1693		8
+104495	tt15768444	In Search of Darkness: Part III	In Search of Darkness: Part III	2022	341	Documentary	4.1	690		7
+136121	tt3530290	Urania Descending	Urania Descending	2016	69	Drama	7.3	9		8
+153448	tt6231638	Patriot of the Web	Patriot of the Web	2017	50	History	1	6		13
+68094	tt0391536	Wrong Number	Wrong Number	2003	121	Mystery	5.6	77		17
+87603	tt1187044	The Maid	La nana	2009	95	Drama	5.5	6397		8
+118270	tt2155391	The Midnight Game	The Midnight Game	2013	74	Thriller	6.1	889		24
+50897	tt0169579	Baggage	Baggage	2003	90	Drama	7.2	42		8
+46495	tt0129509	V tridevyatom tsarstve	V tridevyatom tsarstve	1972	82	Comedy	3.4	23		5
+104865	tt1588334	Jeff, Who Lives at Home	Jeff, Who Lives at Home	2011	83	Comedy	5.9	65387		5
+130015	tt28634479	Shadows in Mind	Shadows in Mind	2023	89	Thriller	2.5	7		24
+150976	tt5862210	B.F.F.	B.F.F.	2016	90	Drama	1.1	51		8
+14728	tt0042693	Lucky Losers	Lucky Losers	1950	70	Comedy	6	354		5
+21355	tt0057314	The Myth	La violenza e l'amore	1965	102	Drama	2.1	9		8
+138126	tt3773506	24 Hours Movie	24 Hours Movie	2014	90	Drama	4.7	53		8
+81397	tt1057535	Marina of the Zabbaleen	Marina of the Zabbaleen	2008	70	Documentary	7.7	27		7
+23550	tt0062350	Last of the Badmen	Il tempo degli avvoltoi	1967	95	Western	8.5	337		26
+159881	tt7556670	The Seven Changes of a Paper Crane (Part 1)	Orizuru shichihenge: Zenpen	1941	66	Adventure	9.5	6		2
+137195	tt3665704	Khun Phan	Khun Phan	2016	105	Action	5.3	368		0
+109259	tt1756384	The Exam	A vizsga	2011	89	Thriller	4.9	2289		24
+22386	tt0059601	A Pistol for Ringo	Una pistola per Ringo	1965	98	Comedy	6	2245		5
+43247	tt0116169	Edie & Pen	Edie & Pen	1996	96	Comedy	6.3	433		5
+146579	tt5118020	The Penalty	The Penalty	2018	90	Documentary	7.6	184		7
+126788	tt2631694	Sleepovers	Sleepovers	2012	53	Family	10	7		9
+26851	tt0069815	Happy New Year	La bonne année	1973	115	Drama	5.5	1864		8
+168126	tt9742160	Finite Water	Finite Water	2019	93.81829254	Documentary	10	15		7
+46967	tt0133838	Five Days in Sinai	Hamisha Yamim B'Sinai	1968	97	Action	1	81		0
+19195	tt0052636	Blood and Steel	Blood and Steel	1959	63	Drama	4.7	142		8
+153056	tt6175078	Luck-Key	Leokki	2016	112	Crime	10	3044		6
+33337	tt0087577	Kung Hei Fat Choy	Gong xi fa cai	1985	93.81829254	Comedy	2	53		5
+63740	tt0319901	My Left Eye Sees Ghosts	Ngo joh ngan gin do gwai	2002	98	Comedy	5.5	1319		5
+43017	tt0115571	The Arrival	The Arrival	1996	115	Sci-Fi	7.1	37714		21
+17829	tt0049456	Lust for Life	Lust for Life	1956	122	Biography	4	12371		4
+130764	tt2940080	Sky and Ocean	Haneulgwa bada	2009	104	Drama	10	39		8
+92611	tt1307989	Never Surrender	Never Surrender	2009	87	Action	1	1907		0
+51497	tt0176193	Strike Me Deadly	Strike Me Deadly	1963	80	Drama	9.8	121		8
+134731	tt3377886	Venial	Venial	2014	89	Drama	1	23		8
+86202	tt1156519	The Three Investigators and the Secret of Terror Castle	The Three Investigators and the Secret of Terror Castle	2009	97	Mystery	7.9	1244		17
+16222	tt0045793	From Here to Eternity	From Here to Eternity	1953	118	Romance	10	50287		20
+158755	tt7326320	More Beautiful for Having Been Broken	More Beautiful for Having Been Broken	2019	111	Drama	5.1	1325		8
+160202	tt7634196	3 Days 2 Nights	3 Days 2 Nights	2019	82	Documentary	9.3	45		7
+46430	tt0129058	A Hero in His Slippers	Enas iros me padoufles	1958	98	Drama	4.9	539		8
+35063	tt0092646	Beyond Therapy	Beyond Therapy	1987	93	Comedy	1	1384		5
+14162	tt0041516	Jiggs and Maggie in Jackpot Jitters	Jiggs and Maggie in Jackpot Jitters	1949	67	Comedy	8	18		5
+120605	tt2249992	Ardeshir Mohasses: The Rebellious Artist	Ardeshir Mohasses: The Rebellious Artist	2013	60	Documentary	5.2	11		7
+29100	tt0075716	Backroads	Backroads	1977	60	Crime	8.1	248		6
+47517	tt0138285	Age to Age	Age to Age	1999	76	Adventure	1.8	78		2
+14884	tt0042994	Stage Fright	Stage Fright	1950	110	Mystery	9.5	15724		17
+114275	tt1986843	A Perfect Plan	Un plan parfait	2012	104	Comedy	10	9799		5
+103205	tt1542482	Late Autumn	Man-choo	2010	116	Drama	10	2158		8
+21629	tt0057935	Charulata	Charulata	1964	117	Drama	10	7077		8
+32400	tt0084825	Trick or Treats	Trick or Treats	1982	91	Horror	6.5	1503		14
+684	tt0009020	A Doll's House	A Doll's House	1918	50	Drama	7.2	22		8
+13410	tt0039969	The Voice of the Turtle	The Voice of the Turtle	1947	103	Romance	5.4	789		20
+51286	tt0174031	The Money Shot	The Money Shot	1996	86	Drama	1	20		8
+41001	tt0109300	Blood of the Innocent	Blood of the Innocent	1994	95	Action	1	408		0
+186	tt0004825	The Wishing Ring: An Idyll of Old England	The Wishing Ring: An Idyll of Old England	1914	54	Romance	4	342		20
+77228	tt0910555	Generic Thriller	Generic Thriller	2009	81	Drama	1.9	76		8
+4084	tt0022048	The Lady and the Beard	Shukujo to hige	1931	75	Romance	9.7	487		20
+119972	tt2222788	Dunn and Vito's Rock Tour	Dunn and Vito's Rock Tour	2006	67	Drama	8.1	72		8
+77907	tt0965350	An Incident at Bridgeville	An Incident at Bridgeville	2005	122	Mystery	8.5	14		17
+42958	tt0115026	Enemy Shadow	Ying zi di ren	1995	92	Action	8.5	22		0
+42163	tt0112819	Dead Presidents	Dead Presidents	1995	119	Action	5.3	24148		0
+22993	tt0061005	She Beast	The She Beast	1966	79	Horror	7.6	1377		14
+138290	tt3794210	Opera Australia: Madama Butterfly	Madama Butterfly	2012	150	Musical	4.9	8		16
+54601	tt0203235	The Enchantment	Yûwakusha	1989	109	Drama	8.3	55		8
+141325	tt4247138	The Sea and the Flying Fish	The Sea and The Flying Fish	2015	78	Family	8.9	70		9
+133095	tt3187094	A Fatal Obsession	A Fatal Obsession	2015	86	Thriller	1	187		24
+158247	tt7234530	California's Forgotten Children	California's Forgotten Children	2018	93.81829254	Documentary	5.2	15		7
+58469	tt0251075	Evolution	Evolution	2001	101	Comedy	10	134945		5
+125770	tt25376056	Keedaa Cola	Keedaa Cola	2023	120	Crime	4.3	2986		6
+28156	tt0073011	The Four Deuces	The Four Deuces	1975	90	Action	1	256		0
+593	tt0008443	The Poor Little Rich Girl	The Poor Little Rich Girl	1917	78	Comedy	6.9	1521		5
+89978	tt1245098	Robert Williams Mr. Bitchin'	Robert Williams Mr. Bitchin'	2010	89	Documentary	8.7	42		7
+31936	tt0083565	2020 Texas Gladiators	Anno 2020 - I gladiatori del futuro	1983	91	Action	2.8	801		0
+41964	tt0112343	Ant Street	Die Ameisenstraße	1995	87	Comedy	4.2	100		5
+15480	tt0044179	Valley of Fire	Valley of Fire	1951	70	Western	1	115		26
+121705	tt23024656	Mera Baba Nanak	Mera Baba Nanak	2023	148	Drama	8	894		8
+159339	tt7459096	Ugo Dossi - Art and Space	Ugo Dossi: Kunst und Weltraum	2017	60	Documentary	8	41		7
+100229	tt14760906	Woman at Sea	Grand marin	2022	84	Drama	9.3	70		8
+91823	tt12899858	Classmates Minus	Classmates Minus	2020	122	Comedy	8.8	1905		5
+141002	tt4196462	Edsa Woolworth	Edsa Woolworth	2014	110	Comedy	7	32		5
+20436	tt0055348	The Queen's Guards	The Queen's Guards	1961	110	Drama	3.6	182		8
+83994	tt11108022	End Zone 2	End Zone 2	1970	93.81829254	Horror	3	21		14
+155737	tt6687720	Two Deaths of Henry Baker	Two Deaths of Henry Baker	2020	94	Crime	1	109		6
+85924	tt11498676	Fixies vs Crabots	Fiksiki protiv Krabotov	2019	83	Animation	5.3	136		3
+87456	tt11845846	The Ghost Tank	The Ghost Tank	2020	97	Horror	4	50		14
+118734	tt2179087	I Will Follow You Into the Dark	I Will Follow You Into the Dark	2012	112	Drama	3.8	1366		8
+67981	tt0389845	Hidden Track	Cham chau Chou Chieh Lun	2003	100	Romance	4.8	163		20
+45992	tt0125967	The Only Way to Spy	The Only Way to Spy	1978	79	Comedy	1	15		5
+68771	tt0405308	Shadows of the Dead	Shadows of the Dead	2004	92	Horror	7.9	389		14
+36594	tt0096421	The Warrior and the Blind Swordsman	Si Buta Lawan Jaka Sembung	1983	90	Action	1.2	70		0
+122730	tt2354247	Off Label	Off Label	2012	80	Drama	6.1	110		8
+107657	tt1699158	The Legend of Pale Male	The Legend of Pale Male	2009	85	Documentary	5.4	36		7
+84029	tt1111786	Dribbles	Dribbles	2007	100	Drama	4.9	21		8
+44268	tt0119019	Dream with the Fishes	Dream with the Fishes	1997	97	Comedy	8.7	1892		5
+78022	tt0972551	Cracker Crazy: Invisible Histories of the Sunshine State	Cracker Crazy: Invisible Histories of the Sunshine State	2007	93	History	7.2	54		13
+96502	tt13846414	Fabian: Going to the Dogs	Fabian oder Der Gang vor die Hunde	2021	176	Romance	5.6	2206		20
+157260	tt7014430	Betrayed	Betrayed	2018	98	Crime	6.4	4683		6
+69758	tt0422764	Moreno and the Silence	Moreno & tystnaden	2006	91	Crime	8.5	470		6
+26881	tt0069883	Cinderella Liberty	Cinderella Liberty	1973	117	Drama	8	2411		8
+95135	tt13507408	Theeviram	Theeviram	2020	108	Drama	3.4	38		8
+142219	tt4404296	The Gatehouse	The Gatehouse	2016	97	Fantasy	6.3	289		10
+136918	tt3626476	Vacation Friends	Vacation Friends	2021	103	Comedy	3.9	28686		5
+138269	tt3791740	The Marriage of Figaro	The Marriage of Figaro	2010	183	Musical	9.6	9		16
+21019	tt0056576	The Damned	The Damned	1962	87	Horror	8.1	3930		14
+32133	tt0084127	In Our Water	In Our Water	1982	60	Documentary	7.7	56		7
+144111	tt4705432	Speakeasy	Speakeasy	2015	46	Drama	9.5	16		8
+41216	tt0109803	Fire Dragon	Huo yun chuan qi	1994	90	Drama	5.8	250		8
+93420	tt13238772	Welcome to Pine Lake	Welcome to Pine Lake	2020	93.81829254	Documentary	7.3	73		7
+20212	tt0054869	Fate Takes a Hand	Fate Takes a Hand	1961	72	Drama	8.8	70		8
+105636	tt1619281	Finding Mr. Wright	Finding Mr. Wright	2011	101	Comedy	4.1	324		5
+70239	tt0430589	Shaadi Karke Phas Gaya Yaar	Shaadi Karke Phas Gaya Yaar	2006	152	Comedy	5.8	1455		5
+54074	tt0199814	Ninja Commandments	Ninja Commandments	1987	90	Action	8.4	110		0
+11367	tt0036184	My Learned Friend	My Learned Friend	1943	74	Thriller	8.9	424		24
+141659	tt4301600	Karolina	Karolina	2014	102	Drama	4.3	41		8
+108260	tt17202164	Appendage	Appendage	2023	94	Drama	5.1	3170		8
+98874	tt1440736	Coffee Shop	Coffee Shop	2008	98	Drama	3.7	10		8
+89291	tt1230364	Big Heart City	Big Heart City	2008	84	Drama	7	70		8
+63234	tt0312975	Money in My Pocket	Money in My Pocket	1962	88	Drama	3.3	25		8
+17096	tt0047818	Les amants du tage	Les amants du tage	1955	123	Romance	7	158		20
+97366	tt1404728	Switch: A Community in Transition	Switch: A Community in Transition	2009	52	Documentary	9.8	9		7
+859	tt0010088	The End of the Road	The End of the Road	1919	69	Drama	1	14		8
+16124	tt0045602	Captain Phantom	Capitan Fantasma	1953	86	Adventure	8.3	30		2
+105569	tt1616162	Rollin: The Decline of the Auto Industry and Rise of the Drug Economy in Detroit	Rollin: The Decline of the Auto Industry and Rise of the Drug Economy in Detroit	2010	83	News	7.1	33		18
+25431	tt0066501	Love Me Strangely	Un beau monstre	1971	125	Thriller	10	196		24
+147189	tt5206576	Future	Future	2016	93.81829254	Sci-Fi	7.2	9		21
+103802	tt1555747	Fubar: Balls to the Wall	Fubar II	2010	85	Comedy	8	1739		5
+24200	tt0063757	The Ideal Marriage	Van de Velde: Die vollkommene Ehe	1968	89	Drama	1.6	28		8
+67088	tt0376105	Racing Stripes	Racing Stripes	2005	102	Comedy	7	18049		5
+7972	tt0029701	Two Minutes to Play	Two Minutes to Play	1936	74	Romance	6.6	36		20
+113134	tt1934483	Yes, We're Open	Yes, We're Open	2012	79	Comedy	1.4	115		5
+132078	tt3087662	The Horror Convention Massacre 2	The Horror Convention Massacre 2	2008	61	Horror	3.1	10		14
+84825	tt1127702	Mission London	Mission London	2010	107	Comedy	5.5	6307		5
+111223	tt1836916	Sid's Paralysis	Sid's Paralysis	2012	90	Drama	7.9	20		8
+161161	tt7867026	Bloodbath at Pinky High: Part 1	Joshi kosei boryoku kyoshitsu	2012	71	Comedy	4.8	45		5
+129094	tt27906902	Chakravyuham: The Trap	Chakravyuham: The Trap	2023	111	Thriller	6.1	6982		24
+110489	tt1813327	The Salt of Life	Gianni e le donne	2011	90	Romance	2.9	1854		20
+138493	tt3819170	The Trial	The Trial	2014	128	Crime	4.3	129		6
+165460	tt8976664	My Boyfriend's Meds	My Boyfriend's Meds	2020	100	Comedy	3.9	489		5
+45526	tt0122891	The All-American Woman	The All-American Woman	1976	82	Romance	2.8	33		20
+131129	tt29723241	Forever Hold Your Peace	Forever Hold Your Peace	2023	100	Drama	3.1	13		8
+44251	tt0118992	The Gods Must Be Daring	La divine poursuite	1997	102	Mystery	8	141		17
+3090	tt0019684	Behind That Curtain	Behind That Curtain	1929	91	Mystery	6.4	541		17
+165590	tt9001594	Home	Home	2019	64	Drama	8.1	29		8
+106806	tt1664684	Hongmao and Lantu: Phoenix Rising	Hong mao lan tu huo feng huang	2010	85	Family	2.8	9		9
+105701	tt1621939	Shards of Glass	Shards of Glass	2009	73	Drama	10	22		8
+37201	tt0098097	Pink Cadillac	Pink Cadillac	1989	122	Crime	7.1	12204		6
+29164	tt0075849	Cinderella	Cinderella	1977	94	Comedy	4.6	927		5
+11534	tt0036534	White Savage	White Savage	1943	76	Adventure	7	218		2
+39442	tt0104545	Jamón, Jamón	Jamón Jamón	1992	95	Comedy	3.7	14846		5
+90166	tt12498852	The Loft House	The Loft House	2018	118	Drama	9.4	18		8
+9844	tt0033224	The Villain Still Pursued Her	The Villain Still Pursued Her	1940	66	Comedy	5.5	347		5
+160588	tt7715240	Walking Proud	Walking Proud	2009	76	Documentary	10	8		7
+92255	tt13003564	Millennial with a Cane	Millennial with a Cane	2021	93.81829254	Drama	3.8	10		8
+157805	tt7139382	Unveiling Jerusalem	Unveiling Jerusalem	2017	52	Documentary	9.8	459		7
+8369	tt0030419	The Marines Are Here	The Marines Are Here	1938	60	Drama	7.4	15		8
+30886	tt0080537	Circus maximus	Circus maximus	1980	99	War	8.4	47		25
+159090	tt7397552	Adrenaline Rush	Adrenaline Rush	2020	93.81829254	Sport	7.3	52		22
+158200	tt7225648	The Song Keepers	The Song Keepers	2017	84	Music	3.3	66		15
+154067	tt6339468	Ulam: Main Dish	Ulam: Main Dish	2018	90	News	10	45		18
+58973	tt0258052	Provocation	Proklisis	1971	110	Drama	1	95		8
+46794	tt0132255	The Earth Is Flat	Jorden er flad	1977	112	Comedy	1.1	17		5
+75201	tt0805324	Thicker Than Water	Blóðbönd	2006	90	Drama	6.4	179		8
+2443	tt0017476	Tom and His Pals	Tom and His Pals	1926	54	Western	1.2	22		26
+87581	tt1186665	Prince of Swine	Prince of Swine	2010	100	Comedy	4	40		5
+41151	tt0109637	Divorce Law	Divorce Law	1993	83	Comedy	9	82		5
+63038	tt0310129	The Secret of Flag Results	The Secret of Flag Results	1977	45	Drama	2.1	64		8
+1195	tt0011939	The Avenging Arrow	The Avenging Arrow	1921	300	Romance	9.4	26		20
+71342	tt0450367	Puzzlehead	Puzzlehead	2005	81	Sci-Fi	2.2	823		21
+5222	tt0024400	Officer Thirteen	Officer 13	1932	62	Crime	9	121		6
+123726	tt2390361	Enough Said	Enough Said	2013	93	Romance	10	65668		20
+83781	tt11064170	Who's Your Daddy?	Who's Your Daddy?	2020	93.81829254	Comedy	5.4	15		5
+101255	tt15010436	Rufus does Judy at Capitol Studios	Rufus Does Judy at Capitol Studios	2021	138	Music	1	20		15
+106853	tt1666612	Deadly Beloved	Deadly Beloved	2009	92	Horror	1.3	21		14
+63704	tt0319531	I'll Sleep When I'm Dead	I'll Sleep When I'm Dead	2003	103	Drama	4.3	8938		8
+114217	tt1985235	The Last Light	The Last Light	2011	85	Horror	1	201		14
+37069	tt0097743	The Anna Akhmatova File	Lichnoe delo Anny Akhmatovoy	1990	65	Documentary	1.7	32		7
+11392	tt0036243	Overland Mail Robbery	Overland Mail Robbery	1943	56	Drama	3.3	34		8
+127329	tt26676104	Hammarskjöld	Hammarskjöld	2023	114	Thriller	10	654		24
+146404	tt5095506	Tight Dress	Dar Elbise	2016	77	Drama	10	1539		8
+145413	tt4935480	Miss Sharon Jones!	Miss Sharon Jones!	2015	93	Music	7.7	672		15
+148034	tt5339894	Me and Sharmin	Man Va Sharmin	2017	89	Drama	2.2	164		8
+14112	tt0041415	The Girl from Jones Beach	The Girl from Jones Beach	1949	78	Romance	6.9	585		20
+41627	tt0110950	Reality Bites	Reality Bites	1994	99	Drama	10	53062		8
+51177	tt0172669	Komodo	Komodo	1999	90	Horror	5	3671		14
+32939	tt0086387	Summerspell	Summerspell	1983	100	Biography	6.4	117		4
+72620	tt0470283	The Companion	Dosar	2006	127	Drama	10	718		8
+2067	tt0016230	The Pleasure Garden	The Pleasure Garden	1925	75	Romance	1.6	2821		20
+36698	tt0096875	Catchfire	Catchfire	1990	116	Action	1	4475		0
+80929	tt10479414	Wunderkammer - World of Wonder	Wunderkammer - World of Wonder	2019	90	Documentary	3.9	18		7
+136766	tt3606592	When the Garden Was Eden	When the Garden Was Eden	2014	76	Documentary	10	256		7
+155302	tt6587200	When the Walls Talk: The Whispers Estate Documentary	When the Walls Talk: The Whispers Estate Documentary	2017	54	Documentary	9	64		7
+14580	tt0042399	Dick Barton at Bay	Dick Barton at Bay	1950	68	Sci-Fi	3.9	158		21
+14894	tt0043013	The Sundowners	The Sundowners	1950	83	Western	7.6	551		26
+46544	tt0129909	Erotic Dreams	Erotic Dreams	1988	63	Fantasy	8	27		10
+110422	tt18083696	The March on Rome	Marcia su Roma	2022	98	Documentary	8.5	171		7
+108105	tt1714833	Drift	Drift	2013	113	Biography	9	5226		4
+5320	tt0024605	The Sphinx	The Sphinx	1933	64	Crime	3.9	509		6
+119710	tt2210220	We Women Warriors	We Women Warriors	2012	82	Drama	5	12		8
+83768	tt11058014	Celtic Pilgrimage:	Celtic Pilgrimage:	2018	98	Documentary	4.1	11		7
+121558	tt2294804	Found Footage Festival Volume 3: Live in San Francisco	Found Footage Festival Volume 3: Live in San Francisco	2008	90	Comedy	10	11		5
+67992	tt0389966	Empathy	Empathy	2003	92	Documentary	7.1	40		7
+138852	tt3862176	Back to School Mom	Back to School Mom	2015	88	Drama	10	162		8
+86367	tt1160371	Heels	Heels	2010	102	Comedy	6.3	47		5
+142392	tt4431392	Malli Malli Idi Rani Roju	Malli Malli Idhi Rani Roju	2015	161	Musical	10	1349		16
+164828	tt8801666	The Most Beautiful Boy in the World	Världens vackraste pojke	2021	93	Biography	8.9	1871		4
+53729	tt0196723	Forever Lulu	Forever Lulu	2000	99	Romance	8.2	1442		20
+110326	tt1805479	A Quiet Outpost	Tikhaya zastava	2011	90	Drama	8.3	376		8
+42561	tt0113865	Mrs. Munck	Mrs. Munck	1995	96	Comedy	6.3	218		5
+13896	tt0040906	Trouble in the Air	Trouble in the Air	1948	55	Comedy	8.7	60		5
+32585	tt0085454	The World of Don Camillo	Don Camillo	1984	126	Action	10	2147		0
+68304	tt0396735	Magic Kitchen	Moh waan chue fong	2004	105	Romance	3.6	545		20
+95505	tt13589412	The Last Five Years	The Last Five Years	2020	88	Musical	8.3	23		16
+89447	tt1233503	My 11th Mother	Yeolhan-beonjjae eomma	2007	104	Drama	3.4	268		8
+23216	tt0061590	Don't Make Waves	Don't Make Waves	1967	97	Comedy	5.9	1892		5
+154485	tt6423542	Spicy Hot in Love	Ai qing ma la tang	2016	98	Romance	8.6	5		20
+77587	tt0940584	Boys of Summerville	Boys of Summerville	2008	96	Drama	10	61		8
+164547	tt8733324	Me Too - Hidden Truth	Mitu - Sumgyeojin jinsil	2018	85	Drama	6.1	8		8
+129070	tt27881925	100 Yards	Men qian bao di	2023	108	Drama	8.9	33		8
+92228	tt12994636	Twas the Night	Twas the Night	2021	83	Thriller	5.4	125		24
+58600	tt0252724	Modern Rhapsody	Modern Rhapsody	1997	103	Drama	7.8	48		8
+17388	tt0048432	Not as a Stranger	Not as a Stranger	1955	135	Romance	6.5	2491		20
+163206	tt8368394	The Sunlit Night	The Sunlit Night	2019	106	Romance	9.5	2477		20
+22279	tt0059371	Love 65	Kärlek 65	1965	96	Drama	6.9	373		8
+86346	tt1160022	Rumba	Rumba	2008	77	Comedy	5.7	1794		5
+63343	tt0314471	The Secret Agent's Blunder	Oshibka rezidenta	1968	142	Thriller	10	285		24
+162989	tt8319778	Nisekoi: False Love	Nisekoi	2018	117	Comedy	7.4	415		5
+41411	tt0110341	Liberation	Liberation	1994	100	History	10	118		13
+255	tt0005551	Inspiration	Inspiration	1915	93.81829254	Drama	7.7	37		8
+23809	tt0062947	Every Bastard a King	Kol Mamzer Melech	1968	100	War	5.1	66		25
+46787	tt0132184	Ghosts of Hanley House	Ghosts of Hanley House	1968	85	Horror	8.7	262		14
+73713	tt0488831	Forgotten Stars: The Jerry and Delbert Story	Forgotten Stars: The Jerry and Delbert Story	2005	50	Comedy	10	39		5
+109787	tt1778918	The Normals	The Normals	2012	100	Comedy	3.3	220		5
+31290	tt0081585	Sweet William	Sweet William	1980	92	Romance	5.7	164		20
+151268	tt5908768	Lisa	Lisa	2016	78	Comedy	1	7		5
+115284	tt2041458	S.O.B. and the Legend of Alan Schafer	S.O.B. and the Legend of Alan Schafer	2009	57	Biography	8.2	8		4
+154763	tt6467562	Careful	Careful	2017	120	Drama	7.1	16		8
+111700	tt1855229	In This Waiting	Se touto to karteri	2011	84	Documentary	2.8	8		7
+65810	tt0357470	The Battle of Shaker Heights	The Battle of Shaker Heights	2003	79	Drama	5.2	4564		8
+138844	tt3861144	Paranormal Evil	Viktorville	2017	93	Thriller	3.1	568		24
+162277	tt8130558	One Day: Justice Delivered	One Day: Justice Delivered	2019	124	Thriller	2.3	2724		24
+146740	tt5136154	Easter Mysteries	Easter Mysteries	2016	88	Musical	10	28		16
+71084	tt0446039	Strange Fruit	Strange Fruit	2005	93.81829254	Documentary	10	6		7
+167303	tt9476068	Her Mind in Pieces	Her Mind in Pieces	2019	93.81829254	Drama	9.5	58		8
+136890	tt3623002	Best Day Ever	Best Day Ever	2014	82	Romance	4.2	553		20
+108371	tt1725131	Struck	Struck	2010	89	Drama	9.6	20		8
+79288	tt10175340	Noah	Noah	2019	130	Family	7.5	44		9
+118754	tt2179660	Rape for Profit	Rape For Profit	2012	86	Documentary	8.6	255		7
+48452	tt0145643	Acid Rain	Acid Rain	1998	85	Thriller	6.4	41		24
+160166	tt7624934	Zoo	Zoo	2018	95	Drama	6.2	2109		8
+49420	tt0158301	...und das ist die Hauptsache!?	...und das ist die Hauptsache!?	1931	88	Musical	5.3	23		16
+147479	tt5252768	Waisetsu stalker: Kurayami de idaite!	Waisetsu stalker: Kurayami de idaite!	2002	62	Drama	4.4	20		8
+117491	tt2125558	Murder on the 13th Floor	Murder on the 13th Floor	2012	85	Thriller	4.7	618		24
+139761	tt4038414	Astraea	Astraea	2015	95	Sci-Fi	10	208		21
+97603	tt14104780	From the Wild Sea	From the Wild Sea	2021	78	Documentary	9.9	48		7
+116451	tt20899948	Dope Boy Magic	Dope Boy Magic	2023	93.81829254	Drama	9.3	36		8
+141750	tt4319698	Little Big Master	Ng goh siu hai dik hau jeung	2015	112	Biography	10	830		4
+136361	tt3560492	Pale Moon	Kami no tsuki	2014	126	Drama	3.5	941		8
+127594	tt2678766	Native Land	Strana rodnaya	1942	78	Documentary	1.6	11		7
+62373	tt0300471	Shanghai Knights	Shanghai Knights	2003	114	Adventure	5	111653		2
+117208	tt2118669	Labyrinth	Labirent	2011	123	Action	4.5	2384		0
+91538	tt1283913	Viva High School Musical	High School Musical: El Desafío	2008	103	Comedy	1	374		5
+109172	tt1754316	Art of Deception	Art of Deception	2019	90	Thriller	6.7	335		24
+58325	tt0249261	Young Love	Young Love	2001	80	Romance	9.3	686		20
+72580	tt0469683	Automaton Transfusion	Automaton Transfusion	2006	75	Horror	1	2431		14
+82050	tt1071228	I Was Here	Mina olin siin	2008	95	Crime	5.6	1180		6
+57730	tt0240913	Under the Sand	Sous le sable	2000	92	Drama	7.9	11334		8
+45638	tt0123581	Burning Down the House	Burning Down the House	2001	84	Comedy	7.7	76		5
+156424	tt6842288	Paper City Burnout	Paper City Burnout	2018	98	Drama	5.2	29		8
+7786	tt0029346	Once a Doctor	Once a Doctor	1937	57	Drama	9.7	145		8
+158861	tt7350424	Affair	Mirae	2014	86	Romance	5.6	90		20
+23009	tt0061037	The Witches	Le streghe	1967	111	Romance	7.7	1933		20
+113719	tt1965057	Run for Your Wife	Run for Your Wife	2012	94	Comedy	7.6	867		5
+77996	tt0970929	The Downline	The Downline	2007	108	Documentary	7	21		7
+15819	tt0044915	The World Condemns Them	Il mondo le condanna	1953	99	Romance	4.1	44		20
+377	tt0006589	The Devil's Needle	The Devil's Needle	1916	59	Drama	6.6	182		8
+109820	tt1781058	Wilson	Wilson	2017	94	Drama	6.3	10976		8
+15652	tt0044566	Dreamboat	Dreamboat	1952	83	Comedy	9.2	936		5
+63123	tt0311582	Night All Day	Night All Day	2000	94	Comedy	4.4	31		5
+58665	tt0253378	Virgin Stripped Bare by Her Bachelors	Oh! Soo-jung	2000	126	Drama	4.2	1485		8
+53575	tt0195253	Sexy Gang	Sexy Gang	1967	87	Crime	6.7	22		6
+115036	tt2024503	South of Southern	South of Southern	2011	60	Comedy	6	43		5
+114092	tt1980199	Nirvana13	Nirvana13	2011	95	Drama	10	132		8
+151736	tt5980496	Crispy's Curse	Crispy's Curse	2017	105	Horror	1	122		14
+64578	tt0333436	Unhappy Happiness	Fan nao de xi shi	1982	103	Comedy	10	8		5
+71572	tt0453459	Chopping Block	Chopping Block	2005	105	Comedy	10	30		5
+34595	tt0091259	The Imagemaker	The Imagemaker	1986	93	Thriller	2	154		24
+5314	tt0024597	The Song You Gave Me	The Song You Gave Me	1934	86	Romance	6.8	45		20
+153940	tt6317180	Radium Girls	Radium Girls	2018	102	Drama	3.1	2186		8
+90740	tt12660938	Invisible Lies	Invisible Lies	2021	71	Drama	4	64		8
+94199	tt1336011	Strongman	Strongman	2009	113	Documentary	8.5	299		7
+95966	tt1370312	W.M.D.	W.M.D.	2013	81	Thriller	4.6	379		24
+47789	tt0140242	Hot Blood	Hot Blood	1989	92	Drama	8.4	82		8
+9729	tt0033009	Safari	Safari	1940	80	Romance	6.8	81		20
+29888	tt0077739	Triangle of Venus	Die Insel der tausend Freuden	1978	86	Crime	8	262		6
